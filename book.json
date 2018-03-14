@@ -1,19 +1,34 @@
 {
+  "gitbook": "3.2.3",
   "plugins": [
-    "jsfiddle",
-    "youtube"
+    "edit-link",
+    "-sharing",
+    "collapsible-chapters",
+    "ga",
+    "wide-page",
+    "hidden",
+    "replace-with-index-html",
+    "page-toc"
   ],
   "pluginsConfig": {
-    "jsfiddle": {
-      "type": "script",
-      "tabs": [
-        "html",
-        "css",
-        "result"
-      ],
-      "height": "500",
-      "width": "500",
-      "fontColor": "000000"
+    "ga": {
+      "token": "UA-68821515-2",
+      "configuration": {
+        "name": "C#"
+      }
+    },
+    "edit-link": {
+      "base": "https://github.com/AustinCodingAcademy/alumni-gitbook/edit/master/",
+      "label": "Edit This Page"
+    },
+    "hidden": {
+      "usernames": ["aca-staff"]
+    },
+    "page-toc": {
+      "position": "top"
     }
+  },
+  "structure": {
+    "readme": "home.md"
   }
 }
