@@ -3,7 +3,7 @@ machine:
     NAME: Alumni
     FILE_ID: 0B9BrFrtW87-URXprZTlSaG5oZnM
   node:
-    version: 5.6.0
+    version: 9.4.0
 # deployment:
 #  master:
 #    branch: master
