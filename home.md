@@ -13,4 +13,4 @@ Welcome to the Alumni Network Workshop! Please attend this weekly support group 
 * Day 9 - Effective Portfolio/Personal Website
 * Day 10 - Portfolio Help
 
-Please keep us posted on the jobs you apply to, your interviews and let us know when you get hired by sending an email to Chris Lofton - clofton@austincodingacademy.com
+Please keep us posted on the jobs you apply to, your interviews and let us know when you get hired by sending an email to Chris Lofton - clofton@austincodingacademy.com.
