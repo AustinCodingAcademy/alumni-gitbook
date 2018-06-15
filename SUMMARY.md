@@ -2,17 +2,21 @@
 
 * [Introduction](home.md)
 * Week 1
-    * [Welcome and Interview Practice](welcome-and-interview-practice)
-    * [Algorithms](algorithms.md)
+    * [Day 1: Intro & Interview Practice](1-1.md)
+    * [Day 2: Algorithms & Pair Programming](1-2.md)
+    * [Assignment: Portfolio](1-3.md)
 * Week 2
-    * [Algorithms](algorithms.md)
-    * []()
+    * [Day 1: Resumes & Online Presence](2-1.md)
+    * [Day 2: White Board Challenges](2-2.md)
+    * [Assignment: Project 1](2-3.md)
 * Week 3
-    * []()
-    * []()
+    * [Day 1: AWS & Domain Hosting](3-1.md)
+    * [Day 2: Projects and Speed Checks](3-2.md)
+    * [Assignment: Project 2](3-3.md)
 * Week 4
-    * []()
-    * []()
+    * [Day 1: Take Home Code Challenges](4-1.md)
+    * [Day 2: Projects and Speed Checks](4-2.md)
+    * [Assignment: Now go get that Job!](4-3.md)
 
 
 <!-- * [Day 1 - Welcome and Introduction](1.md)
