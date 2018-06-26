@@ -11,18 +11,21 @@ What does **“job ready”** mean?
 
 ## The Check Points
 
-* Web Developer Resume
-* Portfolio Website
-* Personal Domain Name Hosting
-* Project 1
-* Project 2
-* White-boarding Algorithms
-* Demo Interview
-* Speed Check and Mentor meetings
-* Apply to at least 25+ jobs
-* Get Hired
+* Online Presence
+  * Web Developer / Software Engineer Resume
+  * Portfolio Website
+  * Personal Domain Name Hosting
+  * Project 1
+  * Project 2
+  * Web Developer / Software Engineer LinkedIn profile
+* In-class / Mentoring.
+  * White-boarding Algorithms
+  * Demo Interview
+  * Speed Check and Mentor meetings
+  * Apply to at least 25+ jobs
+  * Get Hired
 
-### Web Developer Resume
+### Web Developer Resume / LinkedIn
 
 Building an effective Web Developer’s resume is crucial for getting high response rates from your job applications. This process will start with a rough draft to be reviewed by a mentor. It may take several drafts before being finalized and checked off on.
 

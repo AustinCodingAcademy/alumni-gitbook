@@ -2,9 +2,9 @@
 
 * [Introduction](home.md)
 * Week 1
-    * [Day 1: Intro & Interview Practice](1-1.md)
+    * [Day 1: Intro & 1v1 & code practice](1-1.md)
     * [Day 2: Algorithms & Pair Programming](1-2.md)
-    * [Assignment: Portfolio](1-3.md)
+    * [Assignment: Portfolio & Resume](1-3.md)
 * Week 2
     * [Day 1: Resumes & Online Presence](2-1.md)
     * [Day 2: White Board Challenges](2-2.md)
