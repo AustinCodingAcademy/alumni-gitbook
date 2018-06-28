@@ -45,7 +45,7 @@ As an ACA Alumni you should have a project already finished or finalizing. This 
 
 It’s very important to have at least two projects to point to in your resume, portfolio and various other online presences. This shows your diversity as a developer and lets you grow in your confidence and experience as well. This project will also require a “pitch” to be checked off on by a mentor.
 
-### White-boarding Code Challenges
+### Whiteboard Code Challenges
 
 We will provide 15-20 common whiteboard challenges to practice. Then, in front of a mentor, a randomly selected whiteboard challenge will be presented for you completion. Once you complete two basic and one intermediate challenge, this benchmark will be checked-off on.
 

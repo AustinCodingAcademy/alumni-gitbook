@@ -7,7 +7,7 @@
     * [Assignment: Portfolio & Resume](1-3.md)
 * Week 2
     * [Day 1: Resumes & Online Presence](2-1.md)
-    * [Day 2: White Board Challenges](2-2.md)
+    * [Day 2: Whiteboard Challenges](2-2.md)
     * [Assignment: Project 1](2-3.md)
 * Week 3
     * [Day 1: AWS & Domain Hosting](3-1.md)
