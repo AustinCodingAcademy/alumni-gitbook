@@ -10,8 +10,8 @@
     * [Day 2: Git, Github and Class Repo](2-2.md)
     * [Assignment: Project 1](2-3.md)
 * Week 3
-    * [Day 1: AWS & Domain Hosting](3-1.md)
-    * [Day 2: Projects and Speed Checks](3-2.md)
+    * [Day 1: Code Workshop & Dynamic SVGs](3-1.md)
+    * [Day 2: AWS Hosting & Whiteboard](3-2.md)
     * [Assignment: Project 2](3-3.md)
 * Week 4
     * [Day 1: Take Home Code Challenges](4-1.md)
