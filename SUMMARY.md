@@ -14,7 +14,7 @@
     * [Day 2: AWS Hosting & Whiteboard](3-2.md)
     * [Assignment: Project 2](3-3.md)
 * Week 4
-    * [Day 1: Take Home Code Challenges](4-1.md)
+    * [Day 1: Portfolios & Sheets DB](4-1.md)
     * [Day 2: Projects and Speed Checks](4-2.md)
     * [Assignment: Now go get that Job!](4-3.md)
 
