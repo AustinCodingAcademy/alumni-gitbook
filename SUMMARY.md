@@ -15,7 +15,7 @@
     * [Assignment: Project 2](3-3.md)
 * Week 4
     * [Day 1: Portfolios & Sheets DB](4-1.md)
-    * [Day 2: Projects and Speed Checks](4-2.md)
+    * [Day 2: Projects and Whiteboards](4-2.md)
     * [Assignment: Now go get that Job!](4-3.md)
 
 
