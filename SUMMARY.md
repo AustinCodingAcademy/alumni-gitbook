@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](HOME.md)
 * [Stage 1 - Your Brand](lessons/BRANDING.md)
 * [Stage 2 - The Search](lessons/SEARCH.md)
 * [Stage 3 - Interviewing](lessons/INTERVIEWING.md)
