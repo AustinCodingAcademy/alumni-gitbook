@@ -1,11 +1,10 @@
 {
   "name": "alumni-gitbook",
-  "description": "Austin Coding Academy - Alumni",
   "version": "1.0.0",
-  "main": "index.js",
-  "engines": {
-    "node": ">=9.4.0"
-  },
+  "description": "Java Curriculum",
+  "repository": "git@github.com:AustinCodingAcademy/alumni-gitbook.git",
+  "author": "kevin@austincodingacademy.com",
+  "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "gitbook": "^3.2.3",
@@ -14,22 +13,14 @@
     "gitbook-plugin-edit-link": "^2.0.2",
     "gitbook-plugin-ga": "^1.0.1",
     "gitbook-plugin-hidden": "^1.2.0",
-    "gitbook-plugin-page-toc": "^1.0.2",
+    "gitbook-plugin-page-toc": "^1.1.0",
     "gitbook-plugin-replace-with-index-html": "^1.0.9",
-    "gitbook-plugin-wide-page": "^1.0.0"
+    "gitbook-plugin-tonic-aca": "^1.2.1",
+    "gitbook-plugin-wide-page": "^1.0.1"
   },
   "scripts": {
-    "postinstall": "gitbook install && gitbook build",
-    "test": "echo \"Error: no test specified\" && exit 0",
-    "gitbook": "./node_modules/.bin/gitbook"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AustinCodingAcademy/alumni-gitbook.git"
-  },
-  "author": "Kevin Colten & Chris Lofton",
-  "bugs": {
-    "url": "https://github.com/AustinCodingAcademy/alumni-gitbook/issues"
-  },
-  "homepage": "https://github.com/AustinCodingAcademy/alumni-gitbook#readme"
+    "postinstall": "gitbook install",
+    "heroku-postbuild": "gitbook build",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  }
 }

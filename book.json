@@ -1,6 +1,6 @@
 {
-  "gitbook": "3.2.3",
   "plugins": [
+    "tonic-aca",
     "edit-link",
     "-sharing",
     "collapsible-chapters",
@@ -12,7 +12,7 @@
   ],
   "pluginsConfig": {
     "ga": {
-      "token": "UA-68821515-2",
+      "token": "UA-68821515-5",
       "configuration": {
         "name": "Alumni"
       }
@@ -29,6 +29,6 @@
     }
   },
   "structure": {
-    "readme": "home.md"
+    "readme": "HOME.md"
   }
 }
