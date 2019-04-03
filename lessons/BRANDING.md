@@ -46,7 +46,7 @@ that aside for now and having these resources in place.
 
       ```json
         "scripts": {
-          "build": "resume export index.html --format html"
+          "build": "resume export index.html --format html --theme flat_projects"
         }
       ```
 
