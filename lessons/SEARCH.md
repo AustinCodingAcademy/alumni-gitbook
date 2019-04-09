@@ -67,23 +67,33 @@ Recruiters are a pretty controversial topic with developers. You will be inundat
 with them throughout your career. There are good ones and bad ones, but here is a good
 rule of thumb:
 
-* Internal recruiters typically work at the company they are recruiting for. These are the people you want to talk to, have lunch with, etc.
+* Internal recruiters typically work at the company they are recruiting for. These are the people you want to talk to, have lunch with, etc. Search them out for jobs you really want.
 
-* External recruiters are hired by companies and are usually paid on some sort of "backwards" commission. They do want to find the right candidate and not just place anybody, but they will drive your price down and (understandably) don't typically care enought about the sort of environment you end up in or if it is a great personality fit. They are usually very nice, but so are other professions who work on commission. Be polite back, but make sure to set up expectations first, and DO NOT give a salary expectations, or your current salary, etc. You can give a "Only reach out if salary is more than 75k" and tell them you are not interested in working remotely or moving, etc. They will find you, don't worry about seeking them out. Popular companies are Kforce, New Iron, [etc](https://www.builtinaustin.com/2018/10/24/23-austin-recruiting-firms-and-staffing-agencies-finding-right-fit). Job ads from recruiters typically say something like "Our client blah blah blah" and they sometimes will refuse to tell you who the client is. This is to protect their commission, and it is considered rude to find out who the client is and apply on your own, and counter-productive since they probably could get you in sooner.
+* External recruiters are hired by companies and are usually paid on some sort of commission. They do want to find the right candidate and not just place anybody, but they are somewhat incentivized to drive your price down and (understandably) don't typically care enough about the sort of environment you end up in or if it is a great personality fit. They are usually very nice and be sure to be polite back. They are people, too.
 
-## What if I'm unhappy at this first job?
+* Tips when dealing with recruiters:
+  * Establish job requirements first:
+    1. Want to work with an establish team
+    2. Don't to be remote
+    3. Don't want to move
+    4. etc
+  * Even though they will ask quickly and often, DO NOT give a salary expectation, or your current/past salary, etc.
+    * You can say that you'll consider any offer with the right company after interviewing
+      * If they are insistant I usually say "I will consider any offer over $1" or shoot really high until they get the message
+    * If you have a hard lower limit, you can give a "Only reach out if salary is more than 75k", but don't be afraid to shoot high.
+  * Don't worry about finding them, they will find you from LinkedIn, your website, etc.
+  * Popular companies are Kforce, New Iron, [etc](https://www.builtinaustin.com/2018/10/24/23-austin-recruiting-firms-and-staffing-agencies-finding-right-fit).
+  * Frustratingly, recruiters will sometimes list a job for a company on job sites, typically saying something like "Our client blah blah blah". Don't be confused.
+  * They sometimes will refuse to tell you who the client is. This is to protect their commission and are usually forthcoming after talking to you a bit and what you are looking for.
+  * It is considered rude to find out who the client is and apply on your own, and counter-productive since they probably could get you in sooner.
+  * Can't stress this enough: try not to give anyone any more information than necessary about salary. It will be recorded, indexed, and shared. Try to never talk about past or current salary, and only what you are expecting after the company wants to make an offer.
 
-Then I have some good news for you. [Developers are known for not buying into the
-whole company loyalty thing](https://www.inc.com/business-insider/tech-companies-employee-turnover-average-tenure-silicon-valley.html).
-Every 2-3 years at a company, you should re-assess if you are still learning new things and remaining engaged, if not, start looking
-elsewhere, your second job and third jobs could sometimes pay up to twice your first
-job, in only 4 - 6 years!
+## How many jobs do I actually apply to?
 
-The high salaries come at a cost, you have to stay updated and relevant. You must always
-be learning something new, and it can be exhausting. 10+ years doing the same thing on the
-same app with the same stack, one layoff and you can find yourself struggling. It is not
-meant to be stressful, just remember to always invest in yourself, and when the opportunity
-to learn something new comes up at your job JUMP ON IT.
+All of them. Read this article:
+
+[I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+
 
 
 {% include "/includes/footer.md" %}
