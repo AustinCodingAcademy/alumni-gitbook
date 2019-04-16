@@ -94,6 +94,6 @@ All of them. Read this article:
 
 [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
-
+The best thing to happen is to get multiple offers. DO NOT APPLY FOR ONE JOB AND WAIT TO HEAR BACK.
 
 {% include "/includes/footer.md" %}

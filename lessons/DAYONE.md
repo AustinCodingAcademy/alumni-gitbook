@@ -1,3 +1,5 @@
+{% include "/includes/header.md" %}
+
 ## What if I'm unhappy at this first job?
 
 Then I have some good news for you. [Developers are known for not buying into the
@@ -11,3 +13,5 @@ be learning something new, and it can be exhausting. 10+ years doing the same th
 same app with the same stack, one layoff and you can find yourself playing catch-up. It is not
 meant to be stressful, just remember to always invest in yourself, and when the opportunity
 to learn something new comes up at your job JUMP ON IT.
+
+{% include "/includes/footer.md" %}
