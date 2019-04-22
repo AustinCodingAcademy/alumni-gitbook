@@ -52,13 +52,13 @@ They are usually (but not always):
 * Built with the technology being hired for (eg, a React app for a React Position).
 * Given some sort of time requirement
   * Some are challenges that are done in 4 hours
-  * Some give you a week or so, this give you time to refresh or teach yourself a certain technology
+  * Some give you a week or so, this gives you time to refresh or teach yourself a certain technology
 
 Some downsides are:
 
-* The open ended time requirements mean you don't know how long other candidates spent on styling or features
+* The open ended time requirements means you don't know how long other candidates spent on styling or features
   * Fix: have a go-to CSS framework you can use without slowing you down
-* You are applying for a lot of jobs, so you may have take home assignments build up
+* You are applying for a lot of jobs, take home assignments will build up
   * Fix: Don't put off any challenges in order to beef the current one up. Get a slimmed down project up fast if you have to
   * You can always mention how long you spent on it in the README, but remember your commit history has to line up!
 
