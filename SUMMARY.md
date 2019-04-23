@@ -4,6 +4,7 @@
 * [Stage 2 - The Search](lessons/SEARCH.md)
 * [Stage 3 - Interviewing](lessons/INTERVIEWING.md)
 * [Stage 4 - Day One](lessons/FIRSTDAY.md)
+* [Mock Interview](lessons/MOCKINTERVIEW.md)
 * Previous Version
   * [Introductions and Interview Practice](lessons/INTRODUCTIONS.md)
   * [Interview Practice Questions](lessons/PRACTICEQUESTIONS.md)
