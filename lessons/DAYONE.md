@@ -149,4 +149,19 @@ same app with the same stack, one layoff and you can find yourself playing catch
 meant to be stressful, just remember to always invest in yourself, and when the opportunity
 to learn something new comes up at your job JUMP ON IT.
 
+It is ok to look for, interview, and recieve an offer while still at your job. You
+don't need to communicate that you are doing it, but you do need to inform your current
+company ASAP when you receive an offer you are considering. If you are happy where
+you work but want a raise, this is great leverage to get that raise. If you are unhappy
+or just want to engage a new opportunity, then the Project Manager, Engineering Manager, or "Product Owner"
+needs to know so they can plan accordingly. Two weeks is the minimum that should be offered,
+but it is not unusual to stay up to a month depending on the situation.
+
+## What if I am an intern or contractor?
+
+If you are brought on as an intern or contractor, you are not prevented from finding
+a salaried job with benefits somewhere else. In fact, if you do find an offer somewhere
+else, you can use it as leverage to become a salaried employee at your current workplace.
+Typical formalities are still expected, (eg, two-week notices, etc).
+
 {% include "/includes/footer.md" %}
