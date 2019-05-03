@@ -13,7 +13,7 @@
    1. Build an app that uses the [Hacker News API](https://github.com/HackerNews/API) that shows the top stories with a title and link
    2. You can use our CORS-proxy service to get around CORS issues
       1. `https://ni7gssdy8d.execute-api.us-west-1.amazonaws.com/latest/?url=`
-         1. eg: https://ni7gssdy8d.execute-api.us-west-1.amazonaws.com/latest/?url=https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
+         1. eg: https://krhbsxrxp2.execute-api.us-west-1.amazonaws.com/latest/?url=https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
    3. This is meant to be a timed project (two days). Focus on finishing features asked before adding new
       1. Display a simple list of links and title names
       2. Add a quick CSS framework to make it look nice
