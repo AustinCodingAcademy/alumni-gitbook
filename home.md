@@ -20,8 +20,8 @@ opportunity presents itself, you have your resources ready.
 ### Your Portfolio
 
 Do not wait to "finish" any projects before you are applying, they will never be done.
-BUT focuse on making what you have look good with descriptive READMEs, hosted demos,
-and a clean CSS Framework
+BUT focus on making what you have look good with descriptive READMEs, hosted demos,
+and a clean CSS Framework.
 
 ### The Search
 
