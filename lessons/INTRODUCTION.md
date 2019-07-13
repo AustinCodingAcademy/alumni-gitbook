@@ -1,4 +1,4 @@
-{% include "./includes/header.md" %}
+{% include "/includes/header.md" %}
 
 # Job Placement Course
 
@@ -89,4 +89,4 @@ The teachers, mentors and staff at the ACA will not leave your side until you’
 
 By the end of the next 4 weeks, you will have the skills to place yourself in a job. -->
 
-{% include "./includes/footer.md" %}
+{% include "/includes/footer.md" %}
