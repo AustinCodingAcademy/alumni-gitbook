@@ -1,5 +1,13 @@
 # Summary
 
+* Class 1: Online Presence
+* Class 2: Your Personal Brand
+* Class 3: Finding Jobs
+* Class 4: Networking
+* Class 5: Phone Interviews
+* Class 6: In-Person Interviews
+* Class 7: Job Offers
+* Class 8: Mock Interviews
 * Previous Version
   * [Introduction](lessons/INTRODUCTION.md)
   * [Stage 1 - Your Brand](lessons/BRANDING.md)
