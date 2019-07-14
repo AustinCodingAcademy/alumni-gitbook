@@ -8,6 +8,10 @@ You've completed all your ACA track coursework and are weeks away from Graduatio
 
 This four-week course is designed to help you become 100% **job ready**. Our checkpoint curriculum guides you through the necessary prep work for all stages of the job search. By the end of the course, you should have everything you need to begin applying for jobs, taking interviews, and getting full-time job offers.
 
+What does it mean to be **job ready**? We've put together a Job Ready Checklist to help guide you through the process.
+
+## Course Resources
+
 Through this class, you'll have access to:
 * Mentoring
 * Help finding jobs
@@ -81,10 +85,17 @@ This **two-week** section covers the interview cycle. We'll walk through each st
   
 * Closing
   * Homework assignment
+  * "Question of the day" for next class
   * Final questions/notes
 
 ## Course Expectations
 
+### Attendance
+
 ### Homework Assignments
+
+You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each class. Each assignment helps you check off an item on the Job Ready Checklist. **Homework is due one week after it's assigned**, but it's in your best interest to complete the assignments as quickly as possible!
+
+### Career & Job Search Advising
 
 {% include "./includes/footer.md" %}
