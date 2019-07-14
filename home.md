@@ -64,6 +64,25 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, August 8
   * Practice technical and non-technical interviews with folks from industry!
   
+## Class Format
+
+* Scrum Meeting
+  * Announcements
+  * Question of the day (borrowed from actual job interviews!)
+  
+* Topic of the Day
+  * Guest speakers
+  * Instructor presentation/lecture
+  * Exercises
+  * Open work time
+
+* Class Discussion
+  * Deeper dive into an issue relevant to the day's topic
+  
+* Closing
+  * Homework assignment
+  * Final questions/notes
+
 ## Course Expectations
 
 ### Homework Assignments
