@@ -13,15 +13,20 @@ Through this class, you'll have access to:
 * Help finding jobs
 * Help preparing for interviews
 * Code challenge practice
+* Mock interviews
 * A spot on [ACA's graduate portfolio page](https://austincodingacademy.com/hire/)
 
-What does **“job ready”** mean?
-
-- Being job ready means having a Web Developer focused resume, a finalized portfolio and two or more projects of which can be **coherently** described. In addition, being job ready means knowing what to expect throughout the interview process.
-- The Job Placement Course has focused our efforts on what employers are looking for, and compiled a list of the most important and relevant **"checkpoints"** for alumni to complete.
-- Once **every** check point is **☑️'ed**, you will become a **certified Software Engineer with a Full-stack Web Developer focus**, ready to not only find the jobs - but **GET** the job!
+The Job Placement Course has focused our efforts on what employers are looking for, and compiled a list of the most important and relevant "checkpoints" for alumni to complete.
 
 ## Course Goals
+
+As your instructors, our goals are to help you:
+
+* **Find a full-time development job!**
+* Demystify the job search process
+* Build your personal network
+* Find your place in the community (both within ACA and in the greater Austin tech ecosystem)
+* Feel **empowered** and **confident** through the entire process
 
 ## Syllabus and Timeline
 
@@ -57,6 +62,10 @@ This **two-week** section covers the interview cycle. We'll walk through each st
   * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers, negotiation, and navigating your first day on the job.
   
 * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, August 8
-  * Practice technical and non-technical interviews with folks from industry! 
+  * Practice technical and non-technical interviews with folks from industry!
+  
+## Course Expectations
+
+### Homework Assignments
 
 {% include "./includes/footer.md" %}
