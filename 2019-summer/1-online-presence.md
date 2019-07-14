@@ -2,7 +2,7 @@
 
 # Building Your Online Presence
 
-## Question of the day: Getting to know each other
+## Question of the day: Coding origin story
 
 * Introduce yourself:
   * Name
@@ -37,7 +37,7 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 * Github account
 * Work experience
 * Education
-* Portfolio project(s)
+* Portfolio project(s) - links to 1-3 hosted projects
 * List of skills/technologies
 * Personal website (optional)
 
@@ -60,5 +60,8 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ## Homework
 
+Get your ACA graduate page published! 
+* Complete all the items on the Online Presence Checklist in the section above. (Here's a handy PDF version)
+* Send your items to Dan and he'll create your profile.
 
 {% include "/includes/footer.md" %}
