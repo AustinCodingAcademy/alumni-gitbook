@@ -6,6 +6,10 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
 
+## Networking resources
+
+* [Austin Startup Digest newsletter](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
+
 ## Class discussion
 
 ## Homework
