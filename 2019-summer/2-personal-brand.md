@@ -66,7 +66,11 @@ Before real-world interviews, you should have at least 2 project stories prepare
 
 ### Developer stories
 
-
+Tell me about a time you...
+* ...encountered a particularly nasty bug in your code. What did you do? How did you solve it?
+* ...felt especially proud about code you wrote. What we were you working on?
+* ...had a disagreement with a (coding) teammate. What happened? How did you resolve it?
+* ...took a leadership role on a coding team or group project. How did you move the project forward?
 
 ## Class discussion
 
