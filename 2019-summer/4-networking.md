@@ -15,6 +15,7 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
   * Choose events that are tailored to your interested. The more specific, the better!
   * Join the event's Meetup page, Facebook group, etc.
   * Sign up for the group/event's email newsletter.
-* **Choose one upcoming event that you plan to attend.**
+* **Choose one upcoming event that you plan to attend.** It can be one of the Meetups/events on your list, or a different event that's not on your list.
+* To turn in this homework assignment, email your list and chosen event to Dana.
 
 {% include "/includes/footer.md" %}
