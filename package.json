@@ -20,6 +20,6 @@
   },
   "scripts": {
     "postinstall": "gitbook install",
-    "heroku-postbuild": "gitbook build",
+    "heroku-postbuild": "gitbook build"
   }
 }
