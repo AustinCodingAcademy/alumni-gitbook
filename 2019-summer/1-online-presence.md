@@ -48,27 +48,90 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ## Resume
 
-Goal of your resume: Spark a conversation!
+Goal of your resume: Spark a conversation! What sets you apart?
 
-Resume checklist
+### Resume sections
+
 * Name
 * Contact info
 * Objective - role you’re seeking
 * Work experience
 * Education
 * Projects
+* Skills - a list of programming languages and technologies you know
 * Volunteer experience (optional)
-* Personal / other activities (optional)
+* Personal / hobbies / activities (optional)
+
+Notice that much of this is similar to the info in your ACA graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
+
+### Resume tips & tricks
+
+* 1 page ideal, 2 pages max
+* Skills section:
+  * List skills in order of most comfortable to least.
+  * If you list a language or technology, you **must** be able to respond briefly to the question, "Tell me a little about something you did with X..."
+* Projects section:
+  * What does the code you wrote do?
+  * Why did you do it?
+  * Include any quantifiable measurements you can.
+* Hobbies/Activities section:
+  * If you include this section, keep it short!
+  * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
+
+### Sample resumes
+
+* https://kevincolten.com/KevinColten.pdf
 
 ## LinkedIn
 
-LinkedIn checklist
+### LinkedIn tips & tricks
+
+* "Prettify" your LinkedIn profile url with your full name: https://www.linkedin.com/in/danawen
+* Headshots:
+  * You don't need a professional photographer! My headshot photos were taken by a childhood friend and my dad.
+  * **Class portrait session!** If you need to update your headshot, I will take your photo before/after the next class.
+
+### Sample LinkedIn profiles
+
+* https://www.linkedin.com/in/kevincolten
 
 ## Github
 
+### Sample Github pages
+
+* https://github.com/kevincolten
+
+## Project portfolio
+
+As an entry-level developer, your portfolio is the main place potential employers will go to get a sense of what you can do.
+
+Select **1-3 current or recent coding projects** to highlight in your portfolio. These will appear on your ACA graduate profile page. You can also  include them on your LinkedIn page and personal website.
+
+### Project checklist
+
+* Have a hosted demo if it is a web app
+* Be styled with a CSS Framework
+* Have a descriptive README.md in the repo
+* Code must be linted
+* Code should be documented and commented
+* Hosted Project and master branch should have only complete features
+
 ## Personal website
 
-## Other online accounts
+This is **optional**. Potential employers should be able to find everything they need to know on your resume, LinkedIn page, and Github account.
+
+### Website tips & tricks
+
+* Unless you're applying to design jobs, keep it simple! Bare bones is best.
+
+### Sample websites
+
+* https://kevincolten.com
+* https://www.cs.utexas.edu/~simon/
+
+## Other tips & tricks
+
+* [Gravatar](https://en.gravatar.com/): An avatar image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.
 
 ## Class discussion
 
@@ -84,7 +147,7 @@ LinkedIn checklist
 Part 1: Complete your resume
 
 Part 2: Get your ACA graduate profile page published 
-* Complete all the items on the Online Presence Checklist in the section above. (Here's a handy PDF version)
+* Complete all the items on the Online Presence Checklist in the section above.
 * Send your items to Dan and he'll create your profile.
 
 Reminder: This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
