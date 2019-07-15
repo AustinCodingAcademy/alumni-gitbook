@@ -80,17 +80,10 @@ Tell me about a time you...
 * How do you stay motivated, even when things become difficult?
 * As a class, what practices can we put into place to bolster confidence and motivation?
 
-## Homework: Pitch your projects
+## Homework
 
-* Pick 2 of your favorite coding projects.
-* For each project, **write down** answers to the following questions:
-  * What does this project do? (1 sentence)
-  * Did you work on this project alone or with a team? If you worked with a team, what did you contribute? (1-2 sentences)
-  * What’s your favorite feature of this project? (1-2 sentences)
-  * How is this feature implemented/designed? (10 sentences max - get as technical as possible!)
-  * Describe a challenging moment you encountered while working on this project. (1-3 sentences)
-  * How did you respond to this challenging moment? (1-3 sentences)
-  * If you could add one feature OR make one improvement to this project, what would it be? (1-2 sentences)
-* To turn in this assignment, email your answers to Dana.
+Complete your ACA graduate profile page.
+* Complete all the items on the [Online Presence Checklist](https://alumni.austincodingacademy.com/_book/2019-summer/1-online-presence.html#online-presence-checklist).
+* Send your items to Dan and he'll create your profile.
 
 {% include "/includes/footer.md" %}
