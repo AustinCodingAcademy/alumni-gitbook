@@ -8,7 +8,11 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
 
 ## Networking resources
 
-* [Austin Startup Digest newsletter](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
+Newsletters:
+* [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
+
+Networking events:
+* [Eventbrite](https://www.eventbrite.com/d/tx--austin/events/)
 
 ## Class discussion
 
