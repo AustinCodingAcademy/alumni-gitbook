@@ -36,6 +36,7 @@ Recruiters and hiring managers rely heavily on your online presence to learn mor
 
 Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as your guide. Your mission is to gather all the materials needed to complete your own ACA profile:
 * Contact info - email, location, phone number (optional)
+* Headshot
 * Byline (a brief statement that describes your career objectives)
 * LinkedIn profile
 * Github account
@@ -47,7 +48,21 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ## Resume
 
+Goal of your resume: Spark a conversation!
+
+Resume checklist
+* Name
+* Contact info
+* Objective - role you’re seeking
+* Work experience
+* Education
+* Projects
+* Volunteer experience (optional)
+* Personal / other activities (optional)
+
 ## LinkedIn
+
+LinkedIn checklist
 
 ## Github
 
@@ -66,8 +81,12 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ## Homework
 
-Get your ACA graduate page published! 
+Part 1: Complete your resume
+
+Part 2: Get your ACA graduate profile page published 
 * Complete all the items on the Online Presence Checklist in the section above. (Here's a handy PDF version)
 * Send your items to Dan and he'll create your profile.
+
+Reminder: This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
 
 {% include "/includes/footer.md" %}
