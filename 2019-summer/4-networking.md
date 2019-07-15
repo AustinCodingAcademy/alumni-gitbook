@@ -8,11 +8,28 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
 
 ## Networking resources
 
+Networking events:
+* [Capital Factory](https://www.capitalfactory.com/events/)
+* [Built In Austin](https://www.builtinaustin.com/events)
+* [Austin Tech Events Network](https://techeventsnetwork.com/cities/austin/)
+* [Austin Tech Alliance](https://www.austintech.org/events/)
+* [Eventbrite](https://www.eventbrite.com/d/tx--austin/events/)
+
+Meetups:
+* [Austin Node.js](https://www.meetup.com/austinnodejs/)
+* [Downtown ReactJS Meetup](https://www.meetup.com/ReactJS-ATX/)
+* [Bleeding Edge Web](https://www.meetup.com/bleeding-edge-web/) - news & products for modern web developers
+* [Women Who Code Austin](https://www.meetup.com/Women-Who-Code-Austin/)
+* [Austin Hispanic Hackers](https://www.meetup.com/Austin-Hispanic-Hackers-Meetup/)
+* [EdTech Austin](https://www.meetup.com/edtechaustin/) - education & technology
+* [Austin Music Tech Meetup](https://www.meetup.com/Austin-Music-Tech-Meetup/)
+* [Open Austin](https://www.meetup.com/Open-Austin/) - open government, open data, & civic technology
+* And many, many more on [Meetup.com](https://www.meetup.com/)...
+
 Newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
-
-Networking events:
-* [Eventbrite](https://www.eventbrite.com/d/tx--austin/events/)
+* [Austin Tech Events newsletter](https://techeventsnetwork.com/cities/austin/) - weekly list of local events
+* [Capital Factory newsletter](https://www.capitalfactory.com/) - scroll to the bottom of homepage for newsletter sign-up
 
 ## Class discussion
 
