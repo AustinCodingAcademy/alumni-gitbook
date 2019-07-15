@@ -18,7 +18,7 @@ Through this class, you'll have access to:
 * Help preparing for interviews
 * Code challenge practice
 * Mock interviews
-* A spot on [ACA's graduate portfolio page](https://austincodingacademy.com/hire/)
+* A spot on [ACA's graduate profile page](https://austincodingacademy.com/hire/)
 
 The Job Placement Course has focused our efforts on what employers are looking for, and compiled a list of the most important and relevant "checkpoints" for alumni to complete.
 
@@ -106,6 +106,6 @@ Office hours:
 * Monday, August 5 - 6:00-7:30pm
 * Monday, August 12 - 6:00-7:30pm
 
-If you prefer email or can't make it to office hours, you can reach me at dana@austincodingacademy.com.
+If you prefer email or can't make it to office hours, you can reach me at <dana@austincodingacademy.com>.
 
 {% include "./includes/footer.md" %}
