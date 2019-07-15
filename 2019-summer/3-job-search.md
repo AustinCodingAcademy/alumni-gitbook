@@ -37,6 +37,13 @@ Where on the stack?
         
 ## Job search: Where to look
 
+Job boards:
+* [Built In Austin job postings](https://www.builtinaustin.com/jobs)
+
+Companies:
+* [Austin Tech Alliance member companies](https://www.austintech.org/members)
+* [Built In Austin company list](https://www.builtinaustin.com/companies)
+
 ## Class discussion
 
 ## Homework
