@@ -35,6 +35,7 @@ Recruiters and hiring managers rely heavily on your online presence to learn mor
 ### Online presence checklist
 
 Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as your guide. Your mission is to gather all the materials needed to complete your own ACA profile:
+
 * Contact info - email, location, phone number (optional)
 * Headshot
 * Byline (a brief statement that describes your career objectives)
@@ -129,9 +130,18 @@ This is **optional**. Potential employers should be able to find everything they
 * https://kevincolten.com
 * https://www.cs.utexas.edu/~simon/
 
-## Other tips & tricks
+## Miscellaneous tips & tricks
 
+* If possible, use a common username across all your online profiles. Try to snag your name (if's that's not available, aim for a professional-sounding handle). This helps create a consistent online brand. For example:
+  * https://kevincolten.github.io
+  * https://austincodingacademy.com/hire/kevin-colten
+  * https://kevincolten.com
+  * https://kevincolten.com/KevinColten.pdf
+  * https://github.com/kevincolten
+  * https://linkedin.com/in/kevincolten
+  * https://en.gravatar.com/kevincolten
 * [Gravatar](https://en.gravatar.com/): An avatar image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.
+* Any tips & tricks you'd like to share?
 
 ## Class discussion
 
