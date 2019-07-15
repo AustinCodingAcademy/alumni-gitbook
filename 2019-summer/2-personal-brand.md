@@ -15,6 +15,59 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
   * Tech-related skill
   * Non-tech-related skill
 
+## Your personal brand
+
+What unique qualities do you bring to the table?
+
+Your personal brand encompasses:
+* Online accounts & presence
+* Your work:
+  * Previous job/internship experience
+  * Coding projects (your portfolio of class assignments, hobby projects, etc.)
+  * Tech-related volunteer/community experience
+* Your career story
+  * Why coding?
+  * Your coding journey - how did you get to where you are now?
+  * What do you want to do in your career as a developer?
+* Personality & all the qualities that make you unique
+
+## Storytelling
+
+Let's talk about ourselves!
+
+Talking about yourself can often feel awkward or uncomfortable. Yet "pitching" yourself and our work is an essential part of the job search. Throughout the interview process, you'll be asked about topics like career goals, favorite programming languages, projects you've completed, and so much more. These questions present opportunities to tell a compelling story, connect with your interviewers, and set yourself apart from the crowd.
+
+While it's important to prepare for coding questions and whiteboarding, the stories we tell about ourselves and our projects are an equally important part of the technical interview process.
+
+### Career story
+
+On your own, jot down answers to the following questions:
+* Why coding?
+* Tell me about your coding journey. How did you get to where you are now?
+* What do you want to do in your career as a developer?
+
+In small groups, practice interviewing each other.
+
+### Project stories
+
+Pick one of your favorite coding projects. Write down answers to the following questions:
+* What does this project do? (1 sentence)
+* Did you work on this project alone or with a team? If you worked with a team, what did you contribute? (1-2 sentences)
+* What’s your favorite feature of this project? (1-2 sentences)
+* How is this feature implemented/designed? (10 sentences max - get as technical as possible!)
+* Describe a challenging moment you encountered while working on this project. (1-3 sentences)
+* How did you respond to this challenging moment? (1-3 sentences)
+* If you could add one feature OR make one improvement to this project, what would it be? (1-2 sentences)
+* What's one fun fact or random/quirky aspect of this project? (1 sentence)
+  
+In small groups, practice interviewing each other about your projects. Try to avoid referring to your notes as much as possible!
+
+Before real-world interviews, you should have at least 2 project stories prepared.
+
+### Developer stories
+
+
+
 ## Class discussion
 
 ### Building confidence for the job search
