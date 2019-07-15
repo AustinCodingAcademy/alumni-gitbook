@@ -47,6 +47,8 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 * List of skills/technologies
 * Personal website (optional)
 
+**Important Reminder:** This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
+
 ## Resume
 
 Goal of your resume: Spark a conversation! What sets you apart?
@@ -67,6 +69,7 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 
 ### Resume tips & tricks
 
+* PDF format
 * 1 page ideal, 2 pages max
 * Skills section:
   * List skills in order of most comfortable to least.
@@ -76,7 +79,7 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
   * Why did you do it?
   * Include any quantifiable measurements you can.
 * Hobbies/Activities section:
-  * If you include this section, keep it short!
+  * If you include Hobbies/Activities, keep it short!
   * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
 
 ### Sample resumes
@@ -154,12 +157,6 @@ This is **optional**. Potential employers should be able to find everything they
 
 ## Homework
 
-Part 1: Complete your resume
-
-Part 2: Get your ACA graduate profile page published 
-* Complete all the items on the Online Presence Checklist in the section above.
-* Send your items to Dan and he'll create your profile.
-
-Reminder: This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
+Complete your resume. To turn in this assignment, email a copy of your resume (PDF format) to Dana.
 
 {% include "/includes/footer.md" %}
