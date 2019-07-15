@@ -12,11 +12,30 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
 * Your answer could incorporate any of these characteristics:
   * Type of role
   * Industry
-  * Product
-  * Company (size, startup vs. established, etc.)
-  * Team culture (size, development/release cycle, "pager duty", etc.)
-  * Company culture (diversity, benefits, flexible schedule, etc.)
-  * Anything else you can think of
+  * Product - what do you want to build?
+  * Technologies - programming languages, frameworks, etc.
+  * Company - size, startup vs. established, etc.
+  * Team culture - size, structure, development/release cycle, "pager duty", etc.
+  * Company culture - diversity, benefits, flexible schedule, etc.
+  * Anything else that's important to you
+  
+## Job search: What to look for
+
+Types of roles: 
+* Jr Dev/Engineer
+* Project Manager
+* QA / Testing
+* Technical Sales Engineer
+* Product Manager
+* Web Designer
+
+Where on the stack?
+* Front end (FE)
+* Back end
+* Database
+* Full-stack
+        
+## Job search: Where to look
 
 ## Class discussion
 
