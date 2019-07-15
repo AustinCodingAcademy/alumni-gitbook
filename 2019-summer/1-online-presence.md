@@ -53,7 +53,9 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ## Other online accounts
 
-## Class discussion: Your feelings about the job search process
+## Class discussion
+
+### Your feelings about the job search process
 
 * What are you excited about?
 * What are you anxious about?
