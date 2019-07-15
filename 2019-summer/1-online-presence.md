@@ -2,7 +2,9 @@
 
 # Building Your Online Presence
 
-## Question of the day: Coding origin story
+## Question of the day
+
+### Your coding origin story
 
 * Introduce yourself:
   * Name
