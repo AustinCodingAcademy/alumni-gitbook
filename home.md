@@ -68,7 +68,7 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, August 8
   * Practice technical and non-technical interviews with folks from industry!
   
-## Class Format
+## Daily Schedule
 
 * Scrum Meeting
   * Announcements
@@ -97,5 +97,15 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each class. Each assignment helps you check off an item on the Job Ready Checklist. **Homework is due one week after it's assigned**, but it's in your best interest to complete the assignments as quickly as possible!
 
 ### Career & Job Search Advising
+
+## Office Hours & Instructor Communication
+
+Office hours: 
+* Friday, July 19 - 6:00-7:30pm
+* Monday, July 29 - 6:00-7:30pm
+* Monday, August 5 - 6:00-7:30pm
+* Monday, August 12 - 6:00-7:30pm
+
+If you prefer email or can't make it to office hours, you can reach me at dana@austincodingacademy.com.
 
 {% include "./includes/footer.md" %}
