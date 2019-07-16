@@ -6,8 +6,7 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
 
-### Your dream job
-
+**Your dream job**
 * What's your dream tech job?
 * Your answer could incorporate any of these characteristics:
   * Type of role
