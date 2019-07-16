@@ -33,6 +33,16 @@ Newsletters:
 
 ## Class discussion
 
+**Today's Topic:** Networking resources & sharing
+
+* Have you attended a networking event recently? If so:
+  * Who was there? Who did you meet and talk to?
+  * What did you enjoy / find useful about the event?
+  * What could be improved about the event?
+  * If this event was held again, would you return?
+* Where do you go to find out about tech-related events in Austin?
+* Are there any Meetup groups or community organizations that have been helpful to your job search?
+
 ## Homework
 
 * Research networking events. See the resource list above for ideas!
