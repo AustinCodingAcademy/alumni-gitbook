@@ -6,8 +6,6 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
 
-### Brag about yourself!
-
 * What makes you a great coder?
   * Tech-related skill
   * Non-tech-related skill
