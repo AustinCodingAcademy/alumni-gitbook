@@ -104,6 +104,13 @@ You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each cl
 
 ### Career & Job Search Advising
 
+[Sign up for a career advising appointment with Dan](https://acaappointment.as.me/?calendarID=3086181)
+* Availability:
+  * 2-4pm Mon
+  * 5-7:30pm Wed
+  * 1:30-4pm Fri
+* If you need a different time, just email, text me, call, flag me down on the road, whatever, and we'll set something up
+
 ## Office Hours & Communication
 
 Dana's office hours: 
