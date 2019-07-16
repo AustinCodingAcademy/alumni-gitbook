@@ -16,7 +16,7 @@ Our special guests from industry will help you practice both technical and non-t
 
 ## Class discussion
 
-### Course retrospective
+**Today's topic:** Course retrospective
 
 * Share and celebrate achievements
 * Job search next steps: Where will you go from here?
