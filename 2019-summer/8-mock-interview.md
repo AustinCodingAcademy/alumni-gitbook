@@ -12,6 +12,10 @@ During the Scrum Meeting, we'll go around the circle and everyone (including spe
 **OR**
 * What's your favorite web technology? Why?
 
+## Mock Interviews
+
+Our special guests from industry will help you practice both technical and non-technical interviews.
+
 ## Class discussion
 
 ### Course retrospective
