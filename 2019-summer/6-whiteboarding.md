@@ -1,5 +1,40 @@
 {% include "/includes/header.md" %}
 
-# In-Person Interviews & Whiteboarding
+# Onsite Interviews & Whiteboarding
+
+## Question of the day
+
+During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
+
+## Onsite interviews
+
+### How to approach the interview
+
+* Ensure that you spend time planning your approach but remember you can always go brute force and then optimize from there.
+
+* Articulate/code up a working solution (even if it feels inefficient) and then iterate rather than immediately trying to jump to the clever solution, if you cannot explain your solution clearly in 5 minutes, it's probably too complex for the problem at hand.
+
+* Make sure you are asking clarifying questions as you go along (there will not be tricks but you will need to ensure you have all the info you need).
+
+* Practice talking through your coding out loud while you are doing it - the interviewers need to see where you are headed with your solutions and if you talk they can provide hints.
+
+* Spend a little time thinking about how you would walk someone else through your past projects, what you did on them (as opposed to what your team did), and what you learned from them.
+
+* Come prepared with questions for your interviewer - this is just as much a chance for you to ensure that this is the place you want to be.
+
+* Make sure you use good test cases that will find edge/corner cases.
+
+* You will need to debug your code.
+
+* Remember the interviewer will ask for a quick intro, please be prepared to talk about your most recent technical work quickly but in detail so it doesn't eat into your coding time.
+
+## Interviewing resources
+
+* [Facebook Hiring Process](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
+* [FizzBuzz whiteboarding example (YouTube video)](https://www.youtube.com/watch?v=7IbxzIyRMrA)
+
+## Class discussion
+
+## Homework
 
 {% include "/includes/footer.md" %}
