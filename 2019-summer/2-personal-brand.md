@@ -87,11 +87,11 @@ Complete your ACA graduate profile page.
   * Byline (a brief statement that describes your career objectives)
   * LinkedIn profile
   * Github account
-  * Work experience
-  * Education
+  * Work experience - from your resume
+  * Education - from your resume
+  * List of skills/technologies - from your resume
   * Portfolio project(s) - links to 1-3 hosted projects
-  * List of skills/technologies
   * Personal website (optional)
-* **Exception:** Portfolio project - we can add these after Graduation.
+* **Exception:** Portfolio projects - we can add these after Graduation.
 
 {% include "/includes/footer.md" %}
