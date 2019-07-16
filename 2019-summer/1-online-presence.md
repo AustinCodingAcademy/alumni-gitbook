@@ -95,8 +95,9 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 
 ### Sample LinkedIn profiles
 
-* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
+* https://www.linkedin.com/in/lisa-umhey - ACA graduate
 * https://www.linkedin.com/in/kevincolten
+* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
 
 ## Project portfolio
 
@@ -138,7 +139,7 @@ This is **optional**. Potential employers should be able to find everything they
 
 * [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles
 * https://kevincolten.com
-* https://www.cs.utexas.edu/~simon/
+* https://www.cs.utexas.edu/~simon/ - simple HTML template
 
 ## Miscellaneous tips & tricks
 
