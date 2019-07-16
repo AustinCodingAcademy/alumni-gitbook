@@ -65,10 +65,16 @@ Goal of your resume: Spark a conversation! What sets you apart?
 
 Notice that much of this is similar to the info in your ACA graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
 
+### Sample resumes
+
+* https://kevincolten.com/KevinColten.pdf
+* [Resume I submitted for my ACA instructor role](https://drive.google.com/file/d/1CWMoHjdlLZnkKzVnbfiDicRfqudkJV_s/view?usp=sharing)(PDF)
+
 ### Resume tips & tricks
 
 * PDF format
 * 1 page ideal, 2 pages max
+* Tailor your resume to the role you're applying for
 * Skills section:
   * List skills in order of most comfortable to least.
   * If you list a language or technology, you **must** be able to respond briefly to the question, "Tell me a little about something you did with X..."
@@ -79,10 +85,6 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 * Hobbies/Activities section:
   * If you include Hobbies/Activities, keep it short!
   * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
-
-### Sample resumes
-
-* https://kevincolten.com/KevinColten.pdf
 
 ## LinkedIn
 
@@ -126,20 +128,18 @@ Your Github profile is also a good place to showcase any contributions to open s
 
 * https://github.com/kevincolten
 * https://github.com/danawen
+* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles
 
 ## Personal website
 
 This is **optional**. Potential employers should be able to find everything they need to know on your resume, LinkedIn page, and Github account.
 
-### Website tips & tricks
-
-* Unless you're applying to design jobs, keep it simple! Bare bones is best.
+Unless you're applying to design jobs, keep your personal website simple! Bare bones is best.
 
 ### Sample websites
 
-* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles
 * https://kevincolten.com
-* https://www.cs.utexas.edu/~simon/ - simple HTML template
+* https://www.cs.utexas.edu/~simon/ - sample HTML template
 
 ## Miscellaneous tips & tricks
 
@@ -166,6 +166,6 @@ This is **optional**. Potential employers should be able to find everything they
 
 ## Homework
 
-Complete your resume. To turn in this assignment, email a copy of your resume (PDF format) to Dana.
+Complete your resume. To turn in this assignment, email a copy of your resume (PDF format) to Dana. If you'd like feedback, please let me know.
 
 {% include "/includes/footer.md" %}
