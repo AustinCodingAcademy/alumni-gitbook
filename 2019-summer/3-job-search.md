@@ -44,6 +44,13 @@ Companies:
 
 ## Class discussion
 
+**Today's Topic:** Job search resources & sharing
+
+* Where do you go to look for jobs?
+  * Share specific websites, job fairs, resources that have been helpful
+* Where are you in your job search?
+* What are some difficulties or obstacles that you're facing in your search?
+
 ## Homework
 
 * Research companies in Austin that hire folks in your desired role(s).
