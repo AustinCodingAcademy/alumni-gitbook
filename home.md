@@ -104,7 +104,7 @@ You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each cl
 
 ### Career & Job Search Advising
 
-## Office Hours & Instructor Communication
+## Office Hours & Communication
 
 Office hours: 
 * Friday, July 19 - 6:00-7:30pm
@@ -112,6 +112,6 @@ Office hours:
 * Monday, August 5 - 6:00-7:30pm
 * Monday, August 12 - 6:00-7:30pm
 
-If you prefer email or can't make it to office hours, you can reach me at <dana@austincodingacademy.com>.
+If you prefer email or can't make it to office hours, you can reach me at <dana@austincodingacademy.com> or `@dana.wen` on RocketChat. I'll respond within a day or two.
 
 {% include "./includes/footer.md" %}
