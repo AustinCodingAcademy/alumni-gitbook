@@ -6,7 +6,7 @@ Welcome and Congratulations!
 
 You've completed all your ACA track coursework and are weeks away from Graduation. That's a **huge** accomplishment. Take a moment and pat yourself on the back. You can feel proud about everything you've done to get here.
 
-This four-week course is designed to help you become 100% **job ready**. Our checkpoint curriculum guides you through the necessary prep work for all stages of the job search. By the end of the course, you should have everything you need to begin applying for jobs, taking interviews, and getting full-time job offers.
+This four-week course is designed to help you become 100% **job ready**. Our curriculum guides you through the necessary prep work for all stages of the job search. By the end of the course, you should have everything you need to begin applying for jobs, taking interviews, and getting full-time job offers.
 <!--What does it mean to be **job ready**? We've put together a Job Ready Checklist to help guide you through the process.-->
 
 ## Course Resources
@@ -29,7 +29,9 @@ As your instructors, our goals are to help you:
 * Demystify the job search process
 * Build your personal network
 * Find your place in the community (both within ACA and in the greater Austin tech ecosystem)
-* Feel **empowered** and **confident** through the entire process
+* Feel **empowered** and **confident** throughout the entire process
+
+By the end of the year at the latest, we want each of you to be in a full-time position that is close to what you're seeking.
 
 ## Syllabus and Timeline
 
