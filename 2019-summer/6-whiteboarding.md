@@ -28,6 +28,12 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
 
 * Remember the interviewer will ask for a quick intro, please be prepared to talk about your most recent technical work quickly but in detail so it doesn't eat into your coding time.
 
+## Whiteboarding
+
+### Whiteboarding practice problems
+
+* [ACA whiteboard challenge questions](https://github.com/ACA-Alumni/ACA-Job-Tracker/tree/master/resources/whiteboard-challenges) - from the 2018 version of this class (click on any of the `.md` files to view the question)
+
 ## Interviewing resources
 
 * [Facebook Hiring Process](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
