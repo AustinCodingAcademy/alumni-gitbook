@@ -72,7 +72,7 @@ Tell me about a time you...
 
 ## Class discussion
 
-### Building confidence for the job search
+**Today's topic:** Building confidence for the job search
 
 * What makes you feel confident?
 * How do you stay motivated, even when things become difficult?
