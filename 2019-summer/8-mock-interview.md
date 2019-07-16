@@ -6,8 +6,6 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone (including special guests!) will have **one minute** to answer the following prompt:
 
-### Favorite technology
-
 * What's your favorite programming language? Why?
 **OR**
 * What's your favorite web technology? Why?
