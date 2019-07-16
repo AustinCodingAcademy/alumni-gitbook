@@ -6,8 +6,6 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
 
-### Your coding origin story
-
 * Introduce yourself:
   * Name
   * Which ACA track you just completed
