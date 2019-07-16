@@ -166,6 +166,7 @@ Unless you're applying to design jobs, keep your personal website simple! Bare b
 
 ## Homework
 
-Complete your resume. To turn in this assignment, email a copy of your resume (PDF format) to Dana. If you'd like feedback, please let me know.
+Complete your resume and [host it on your Github account](https://guides.github.com/features/pages/) via Github Pages.
+* To turn in this assignment, paste the link to your resume site in Campus Manager.
 
 {% include "/includes/footer.md" %}
