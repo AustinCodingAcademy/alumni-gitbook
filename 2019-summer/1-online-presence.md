@@ -68,7 +68,7 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 ### Sample resumes
 
 * https://kevincolten.com/KevinColten.pdf
-* [Resume I submitted for my ACA instructor role](https://drive.google.com/file/d/1CWMoHjdlLZnkKzVnbfiDicRfqudkJV_s/view?usp=sharing)(PDF)
+* [Resume I submitted for my ACA instructor role](https://drive.google.com/file/d/1CWMoHjdlLZnkKzVnbfiDicRfqudkJV_s/view?usp=sharing) (PDF)
 
 ### Resume tips & tricks
 
