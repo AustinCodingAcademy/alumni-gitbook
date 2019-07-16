@@ -91,25 +91,20 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 ### LinkedIn tips & tricks
 
 * "Prettify" your LinkedIn profile url with your full name: https://www.linkedin.com/in/danawen
-* Headshots:
+* Headshot photos:
   * You don't need a professional photographer! My headshot photos were taken by a childhood friend and my dad.
-  * **Class portrait session!** If you need to update your headshot, I will take your photo before/after the next class.
+  * **Class portrait session!** If you need to update your headshot, I will take your photo before/after class on Thursday 7/18.
 
 ### Sample LinkedIn profiles
 
+* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
 * https://www.linkedin.com/in/kevincolten
-
-## Github
-
-### Sample Github pages
-
-* https://github.com/kevincolten
 
 ## Project portfolio
 
 As an entry-level developer, your portfolio is the main place potential employers will go to get a sense of what you can do.
 
-Select **1-3 current or recent coding projects** to highlight in your portfolio. These will appear on your ACA graduate profile page. You can also  include them on your LinkedIn page and personal website.
+Select **1-3 current or recent coding projects** to highlight in your portfolio. These will appear on your ACA graduate profile page. You can also include them on your LinkedIn page and personal website.
 
 ### Project checklist
 
@@ -119,6 +114,19 @@ Select **1-3 current or recent coding projects** to highlight in your portfolio.
 * Code must be linted
 * Code should be documented and commented
 * Hosted Project and master branch should have only complete features
+
+## Github
+
+Prospective employers will look at your Github profile page to get a sense of your coding activity. If you direct an employer to any of your code on Github, you can bet they will look at it! Repos for your portfolio projects should be organized and contain clear README files.
+
+**All** of your recent code should be on your Github account. If you've been working on a coding project that's not on Github or under version control, make a Github repo and get it checked in ASAP. Otherwise it will not be seen by potential employers. Show off your code!
+
+Your Github profile is also a good place to showcase any contributions to open source or volunteer projects.
+
+### Sample Github pages
+
+* https://github.com/kevincolten
+* https://github.com/danawen
 
 ## Personal website
 
@@ -130,6 +138,7 @@ This is **optional**. Potential employers should be able to find everything they
 
 ### Sample websites
 
+* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles
 * https://kevincolten.com
 * https://www.cs.utexas.edu/~simon/
 
@@ -143,6 +152,7 @@ This is **optional**. Potential employers should be able to find everything they
   * https://github.com/kevincolten
   * https://linkedin.com/in/kevincolten
   * https://en.gravatar.com/kevincolten
+
 * [Gravatar](https://en.gravatar.com/): An avatar image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.
 * Any tips & tricks you'd like to share?
 
