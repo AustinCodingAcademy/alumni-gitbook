@@ -9,7 +9,7 @@
 * Part 2: The Interview Process
   * [Stages of the Interview Process](2019-summer/interview-process.md)
   * [Class 5: Phone Interviews](2019-summer/5-phone-interview.md)
-  * [Class 6: In-Person Interviews](2019-summer/6-whiteboarding.md)
+  * [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md)
   * [Class 7: Job Offers](2019-summer/7-job-offer.md)
   * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md)
 * Previous Version
