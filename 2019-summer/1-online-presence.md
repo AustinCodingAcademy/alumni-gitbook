@@ -156,7 +156,7 @@ This is **optional**. Potential employers should be able to find everything they
 
 ## Class discussion
 
-### Your feelings about the job search process
+**Today's topic:** Your feelings about the job search process
 
 * What are you excited about?
 * What are you anxious about?
