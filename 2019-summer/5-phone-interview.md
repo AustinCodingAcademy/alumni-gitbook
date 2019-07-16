@@ -6,10 +6,8 @@
 
 During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
 
-### A well-designed website
-
 * Name a website that you find particularly well-designed.
-* What makes this website well-designed? Describe 1-2 features that make it easy and fun to use.
+  * What makes this website well-designed? Describe 1-2 features that make it easy and fun to use.
 
 ## Interview demo
 
