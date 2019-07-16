@@ -81,7 +81,17 @@ Tell me about a time you...
 ## Homework
 
 Complete your ACA graduate profile page.
-* Complete all the items on the [Online Presence Checklist](https://alumni.austincodingacademy.com/_book/2019-summer/1-online-presence.html#online-presence-checklist).
-* Send your items to Dan and he'll create your profile.
+* Gather all the items on the [Online Presence Checklist](https://alumni.austincodingacademy.com/_book/2019-summer/1-online-presence.html#online-presence-checklist):
+  * Contact info - email, location, phone number (optional)
+  * Headshot photo
+  * Byline (a brief statement that describes your career objectives)
+  * LinkedIn profile
+  * Github account
+  * Work experience
+  * Education
+  * Portfolio project(s) - links to 1-3 hosted projects
+  * List of skills/technologies
+  * Personal website (optional)
+* **Exception:** Portfolio project - we can add these after Graduation.
 
 {% include "/includes/footer.md" %}
