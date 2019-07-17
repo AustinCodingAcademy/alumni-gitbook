@@ -89,6 +89,7 @@ Example ACA grad resumes:
 * Hobbies/Activities section:
   * If you include Hobbies/Activities, keep it short!
   * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
+  * [CV Compiler](https://cvcompiler.com/) - online tool that automatically tests/scans your resume and suggests improvements
 
 ## LinkedIn
 
@@ -140,6 +141,10 @@ Your Github profile is also a good place to showcase any contributions to open s
 This is **optional**. Potential employers should be able to find everything they need to know on your resume, LinkedIn page, and Github account.
 
 Unless you're applying to design jobs, keep your personal website simple! Bare bones is best.
+
+Personal website resources:
+* [Netlify](https://www.netlify.com/) - website hosting
+* [WebFaction](https://www.webfaction.com/) - website hosting
 
 ### Sample websites
 
