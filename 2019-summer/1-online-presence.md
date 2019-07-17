@@ -72,6 +72,7 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 Example ACA grad resumes:
 
 * [Brandon Turner resume](https://brandontheturner.github.io/BrandonTurner.pdf)
+* [Lisa Umhey resume](Resume_LisaUmhey.pdf)
 
 ### Resume tips & tricks
 
