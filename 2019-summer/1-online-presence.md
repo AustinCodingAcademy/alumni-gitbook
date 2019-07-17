@@ -167,7 +167,8 @@ Unless you're applying to design jobs, keep your personal website simple! Bare b
 
 ## Homework
 
-Complete your resume and [host it on your Github account](https://guides.github.com/features/pages/) via Github Pages.
+* Complete a PDF version of your resume.
+* Host your PDF resume on your Github account with [Github Pages](https://guides.github.com/features/pages/).
 * To turn in this assignment, paste the link to your resume site in Campus Manager.
 
 {% include "/includes/footer.md" %}
