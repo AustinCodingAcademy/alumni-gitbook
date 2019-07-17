@@ -65,10 +65,13 @@ Goal of your resume: Spark a conversation! What sets you apart?
 
 Notice that much of this is similar to the info in your ACA graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
 
-### Sample resumes
+### Resume template and examples
 
-* https://kevincolten.com/KevinColten.pdf
-* [Resume I submitted for my ACA instructor role](https://drive.google.com/file/d/1CWMoHjdlLZnkKzVnbfiDicRfqudkJV_s/view?usp=sharing) (PDF)
+* [Resume template](https://docs.google.com/document/d/1FxS7owJNMEZIpGpQ9QDICJxVcyg8v9qW5c_avr6FC6g/edit) for ACA grads
+
+Example ACA grad resumes:
+
+* [Brandon Turner resume](https://brandontheturner.github.io/BrandonTurner.pdf)
 
 ### Resume tips & tricks
 
