@@ -99,5 +99,6 @@ Complete everything you need to create your [ACA graduate profile page](https://
   * Portfolio project(s) - links to 1-3 hosted projects
   * Personal website (optional)
 * **Exception:** Portfolio projects - we can add these after Graduation.
+* To turn in this assignment, submit the link to your LinkedIn profile in the homework section of Campus Manager.
 
 {% include "/includes/footer.md" %}
