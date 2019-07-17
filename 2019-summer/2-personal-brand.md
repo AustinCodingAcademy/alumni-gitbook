@@ -46,11 +46,11 @@ While it's important to prepare for coding questions and whiteboarding, the stor
 ### Career story
 
 On your own, jot down answers to the following questions:
-* Why coding?
+* What inspired you to learn how to code?
 * Tell me about your coding journey. How did you get to where you are now?
 * What do you want to do in your career as a developer?
 
-In small groups, practice interviewing each other.
+In pairs, practice interviewing each other.
 
 ### Project stories
 
@@ -86,7 +86,7 @@ Tell me about a time you...
 
 ## Homework
 
-Complete your ACA graduate profile page.
+Complete everything you need to create your [ACA graduate profile page](https://austincodingacademy.com/hire/).
 * Gather all the items on the [Online Presence Checklist](https://alumni.austincodingacademy.com/_book/2019-summer/1-online-presence.html#online-presence-checklist):
   * Contact info - email, location, phone number (optional)
   * Headshot photo
