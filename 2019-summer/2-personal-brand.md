@@ -64,7 +64,7 @@ Pick one of your favorite coding projects. Write down answers to the following q
 * If you could add one feature OR make one improvement to this project, what would it be? (1-2 sentences)
 * What's one fun fact or random/quirky aspect of this project? (1 sentence)
   
-In small groups, practice interviewing each other about your projects. Try to avoid referring to your notes as much as possible!
+In pairs, practice interviewing each other about your projects. Try to avoid referring to your notes as much as possible!
 
 Before real-world interviews, you should have at least 2 project stories prepared.
 
