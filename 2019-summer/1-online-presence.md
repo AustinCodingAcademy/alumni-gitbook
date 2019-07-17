@@ -98,6 +98,7 @@ Notice that much of this is similar to the info in your ACA graduate profile pag
 ### Sample LinkedIn profiles
 
 * https://www.linkedin.com/in/lisa-umhey - ACA graduate
+* https://www.linkedin.com/in/daniel-cumming/
 * https://www.linkedin.com/in/kevincolten
 * [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
 
