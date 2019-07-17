@@ -168,7 +168,15 @@ Unless you're applying to design jobs, keep your personal website simple! Bare b
 ## Homework
 
 * Complete a PDF version of your resume.
-* Host your PDF resume on your Github account with [Github Pages](https://guides.github.com/features/pages/).
-* To turn in this assignment, paste the link to your resume site in Campus Manager.
+* Host your PDF resume on your Github account with GitHub Pages. If you're new to GitHub Pages, follow the steps below:
+  * In your GitHub account, create a new repository called `resume`.
+  * On the new repository page, look in the blue "Quick setup" box. Click "uploading an existing file".
+  * Upload your resume PDF file.
+  * On the home page of your repository, click Settings. Scroll down to the section "GitHub Pages".
+  * In the "Source" dropdown, select the "Master branch" option. This will enable GitHub Pages for this repository.
+  * In the "GitHub Pages" section, you should now see a public URL for your resume repository. Example: `https://<your-username>.github.io/resume/`
+  * To access your resume file, visit `https://<your-username>.github.io/resume/<resume-file-name.pdf>`
+  * Real-life example: https://danawen.github.io/resume/Dana-Wen-Resume-Austin-Coding-Academy.pdf
+* To turn in this assignment, paste the Github Pages link to your resume in Campus Manager.
 
 {% include "/includes/footer.md" %}
