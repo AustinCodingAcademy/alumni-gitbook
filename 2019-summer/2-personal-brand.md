@@ -55,14 +55,14 @@ In pairs, practice interviewing each other.
 ### Project stories
 
 Pick one of your favorite coding projects. Write down answers to the following questions:
-* What does this project do? (1 sentence)
-* Did you work on this project alone or with a team? If you worked with a team, what did you contribute? (1-2 sentences)
-* What’s your favorite feature of this project? (1-2 sentences)
-* How is this feature implemented/designed? (10 sentences max - get as technical as possible!)
-* Describe a challenging moment you encountered while working on this project. (1-3 sentences)
-* How did you respond to this challenging moment? (1-3 sentences)
-* If you could add one feature OR make one improvement to this project, what would it be? (1-2 sentences)
-* What's one fun fact or random/quirky aspect of this project? (1 sentence)
+* What does this project do?
+* Did you work on this project alone or with a team? If you worked with a team, what did you contribute?
+* What’s your favorite feature of this project?
+* How is this feature implemented/designed? (brief, high-level, technical summary)
+* Describe a challenging moment you encountered while working on this project.
+* How did you respond to this challenging moment?
+* If you could add one feature OR make one improvement to this project, what would it be?
+* What's one fun fact or random/quirky aspect of this project?
   
 In pairs, practice interviewing each other about your projects. Try to avoid referring to your notes as much as possible!
 
