@@ -41,15 +41,44 @@ Job boards:
 * [Stack Overflow - Austin job board](https://stackoverflow.com/jobs/developer-jobs-in-austin)
 * [Craigslist - Austin tech job board](https://austin.craigslist.org/d/software-qa-dba-etc/search/sof)
 * [LinkedIn - Austin job board](https://www.linkedin.com/jobs/austin-tx-jobs)
+* [Angel List - Austin](https://angel.co/austin/jobs) - tech & startup jobs
+* [Hacker News - "Who's Hiring?" posts](https://hnhiring.com/) - updated at the beginning of every month
 * [Built In Austin job postings](https://www.builtinaustin.com/jobs)
+* [Capital Factory Jobs (Facebook group)](https://www.facebook.com/groups/capitalfactoryjobs/)
 
 Lists of local companies:
 * [Austin Tech Alliance member companies](https://www.austintech.org/members)
 * [Built In Austin company list](https://www.builtinaustin.com/companies)
 * [Capital Factory company list](https://www.capitalfactory.com/portfolio/)
 
-Newsletters:
+Email newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings (+ events and articles)
+
+## What's up with recruiters?
+
+Recruiters are a pretty controversial topic with developers. You will be inundated with them throughout your career. There are good ones and bad ones, but here is a good rule of thumb:
+
+**Internal recruiters** typically work at the company they are recruiting for. These are the people you want to talk to, have lunch with, etc. Search them out for jobs you really want.
+
+**External recruiters** ("headhunters") are hired by companies and are usually paid on some sort of commission. They do want to find the right candidate and not just place anybody, but they are somewhat incentivized to drive your price down and (understandably) don't typically care enough about the sort of environment you end up in or if it is a great personality fit. They are usually very nice and be sure to be polite back. They are people, too.
+
+Tips when dealing with recruiters:
+
+* Establish job requirements first:
+  * Want to work with an established team
+  * Don't to be remote
+  * Don't want to move away from Austin
+  * Etc.
+* Even though they will ask quickly and often, DO NOT give a salary expectation, or your current/past salary, etc.
+  * You can say that you'll consider any offer with the right company after interviewing
+    * If they are insistent, I usually say "I will consider any offer over $1" or shoot really high until they get the message
+  * If you have a hard lower limit, you can give a "Only reach out if salary is more than 75k", but don't be afraid to shoot high.
+* Don't worry about finding them. They will find you from LinkedIn, your website, etc.
+* Popular recruiting companies are Kforce, New Iron, etc.
+Frustratingly, recruiters will sometimes list a job for a company on job sites, typically saying something like "Our client blah blah blah". Don't be confused.
+* They sometimes will refuse to tell you who the client is. This is to protect their commission and are usually forthcoming after talking to you a bit and what you are looking for.
+* It is considered rude to find out who the client is and apply on your own, and counter-productive since they probably could get you in sooner.
+* Can't stress this enough: **Avoid giving anyone any more information than necessary about salary.** It will be recorded, indexed, and shared. Avoid talking about past or current salary. If you do, only share what you are expecting **after** the company wants to make an offer.
 
 ## Class discussion
 
