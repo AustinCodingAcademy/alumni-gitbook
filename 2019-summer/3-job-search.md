@@ -36,11 +36,20 @@ Where on the stack?
 ## Job search: Where to look
 
 Job boards:
+* [Hired - Austin](https://hired.com/jobs/austin)
+* [Indeed - Austin](https://www.indeed.com/l-Austin,-TX-jobs.html)
+* [Stack Overflow - Austin job board](https://stackoverflow.com/jobs/developer-jobs-in-austin)
+* [Craigslist - Austin tech job board](https://austin.craigslist.org/d/software-qa-dba-etc/search/sof)
+* [LinkedIn - Austin job board](https://www.linkedin.com/jobs/austin-tx-jobs)
 * [Built In Austin job postings](https://www.builtinaustin.com/jobs)
 
-Companies:
+Lists of local companies:
 * [Austin Tech Alliance member companies](https://www.austintech.org/members)
 * [Built In Austin company list](https://www.builtinaustin.com/companies)
+* [Capital Factory company list](https://www.capitalfactory.com/portfolio/)
+
+Newsletters:
+* [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings (+ events and articles)
 
 ## Class discussion
 
