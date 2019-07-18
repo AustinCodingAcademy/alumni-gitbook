@@ -17,6 +17,18 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
   * Company culture - diversity, benefits, flexible schedule, etc.
   * Anything else that's important to you
   
+## Job search: Getting started
+
+Food for thought:
+[I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/)
+
+5 main takeaways from the author's job search:
+* Get through to real people
+* Start small and work your way up
+* Study like your future job depends on it
+* Put your best foot forward
+* It’s a marathon, not a sprint
+  
 ## Job search: What to look for
 
 Types of roles: 
@@ -76,6 +88,7 @@ Tips when dealing with recruiters:
   * If you have a hard lower limit, you can say "Only reach out if salary is more than 75k", but don't be afraid to shoot high.
 * Don't worry about finding them. They will find you from LinkedIn, your website, etc.
 * Popular recruiting companies are Kforce, New Iron, etc.
+  * [List of local recruiting/staffing agencies](https://www.builtinaustin.com/2018/10/24/23-austin-recruiting-firms-and-staffing-agencies-finding-right-fit)
 * Frustratingly, recruiters will sometimes list a job for a company on job sites, typically saying something like "Our client blah blah blah". Don't be confused.
 * External recruiters will sometimes refuse to tell you who their client is. This is to protect their commission and are usually forthcoming after talking to you a bit and what you are looking for.
 * It is considered rude to find out who an external recruiter's client is and apply on your own. It's also counter-productive since they probably could get you in sooner.
