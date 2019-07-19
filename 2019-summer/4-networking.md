@@ -2,9 +2,37 @@
 
 # Building Your Network
 
-## Question of the day
+## The Five W's of networking events
 
-During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
+* **WHAT** are the different types of networking events?
+  * Meetups - focused on specific topics or interests
+  * Social - mixers, happy hours
+  * Job fairs
+  * Skill-building - lectures, TED-style talks, panel discussions, one-night classes, etc.
+  * Startup / Entrepreneurship - pitch practices, startup open houses (good to attend if you want to work for a smaller company)
+  * Conferences - whole-day or multi-day events with many presenters
+
+* **WHO** goes to tech networking events?
+  * Recruiters
+  * Company representatives
+  * Entrepreneurs / startup founders
+  * Engineers & developers of all types & skill levels!
+  * Designers, product managers, UX researchers, etc.
+  * People in fields adjacent to tech who want to learn more
+
+* **WHERE** are they held?
+  * Co-working spaces, conference centers, restaurants/bars, hotel ballrooms, community centers, lecture halls, etc.
+
+* **WHEN** during my job search process should I go to a networking event?
+  * Anytime! **Always** take advantage of opportunities to build your network throughout your job search, and even after you've found your dream role.
+  
+* **WHY** do people go to networking events? They may be...
+  * Hiring
+  * Seeking a job
+  * Looking for volunteers
+  * Looking for collaborators / partners (for a startup or open source project)
+  * Seeking startups to invest in
+  * Looking to meet interesting, like-minded people
 
 ## Networking resources
 
