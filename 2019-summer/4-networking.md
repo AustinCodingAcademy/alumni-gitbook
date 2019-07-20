@@ -33,6 +33,54 @@
   * Looking for collaborators / partners (for a startup or open source project)
   * Seeking startups to invest in
   * Looking to meet interesting, like-minded people
+  
+## Attending a networking event
+
+So you've registered to attend a networking event - awesome! But what comes next?
+
+Here are some tips to prepare for a successful networking experience:
+
+### Set a goal
+
+Networking events can feel much less daunting when you have a goal in mind. The night before, establish a **concrete, measurable goal** for the event. Examples:
+
+* Talk to 6 company recruiters about open roles. Give each of them a copy of your resume.
+* Introduce yourself to 4 new people and practice telling them about your favorite coding project.
+* Seek out 3 engineers from Google and talk to them about what they're working on. Exchange LinkedIn profiles.
+* Make a list of 5 companies you're interested in. Talk with one person from each of those companies and exchange contact information.
+
+### What to wear
+
+* Business casual
+  * Women:
+    * Slacks/skirt or nice jeans paired with a blouse or button-down shirt
+    * An office-appropriate dress
+    * Fun jewelry (keep it professional though)
+    * Comfy shoes
+  * Men:
+    * Slacks or nice jeans and a button-down shirt
+* Comfort is key - networking events are often crowded and involve lots of standing/walking around
+
+### What to bring
+
+* Copies of your resume (especially if it's a recruiting-focused event like a job fair)
+* Business cards
+  * No business cards? Connect digitally instead! Download the LinkedIn app to your phone. If you meet someone interesting, ask to connect with them on LinkedIn and add them to your network on the spot.
+* Backpack / shoulder bag
+  * To hold stuff you collect at the event (business cards, company literature, brochures, swag, etc.)
+* Your laptop
+  * But only if you're actually planning to demo something. Networking events are often crowded and it may be inconvenient to lug around.
+* A friend - networking events are much more fun when you know someone else there
+  * Challenge your friend to see who can meet their networking goal the quickest
+  * Grab a drink/snack afterwards and debrief
+
+### After the event
+
+* Follow up! Send a brief email or LinkedIn message to everyone you had a conversation with, **especially** recruiters.
+  * If it's someone you'd like to keep in touch with, include a **call to action** in your message.
+    * For recruiters, ask for a phone call to learn more about their open roles. That shows you're interested and want to keep the conversation going.
+    * For others, suggest meeting for coffee/lunch or attending a future networking event together.
+  * Make it personal: Thank them for their time and include details of the conversation that you enjoyed.
 
 ## Networking resources
 
