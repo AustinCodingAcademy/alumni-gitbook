@@ -65,7 +65,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 
 * Copies of your resume (especially if it's a recruiting-focused event like a job fair)
 * Business cards
-  * No business cards? Connect digitally instead! Download the LinkedIn app to your phone. If you meet someone interesting, ask to connect with them on LinkedIn and add them to your network on the spot.
+  * If you don't have business cards, connect digitally instead! Download the LinkedIn app to your phone. If you meet someone interesting, ask to connect with them on LinkedIn and add them to your network on the spot.
 * Backpack / shoulder bag
   * To hold stuff you collect at the event (business cards, company literature, brochures, swag, etc.)
 * Your laptop
@@ -73,6 +73,12 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 * A friend - networking events are much more fun when you know someone else there
   * Challenge your friend to see who can meet their networking goal the quickest
   * Grab a drink/snack afterwards and debrief
+  
+### During the event
+
+* Ask questions.
+  * Need ideas? Check out [Forbes' list of best questions to ask at networking events](https://www.forbes.com/sites/elanagross/2016/05/30/the-best-questions-to-ask-at-networking-events/#7ec63ad4802a).
+* Smile!
 
 ### After the event
 
@@ -82,9 +88,9 @@ Networking events can feel much less daunting when you have a goal in mind. The 
     * For others, suggest meeting for coffee/lunch or attending a future networking event together.
   * Make it personal: Thank them for their time and include details of the conversation that you enjoyed.
 
-## Networking resources
+## Networking events
 
-Networking events:
+Event calendars:
 * [Capital Factory](https://www.capitalfactory.com/events/)
 * [Built In Austin](https://www.builtinaustin.com/events)
 * [Austin Tech Events Network](https://techeventsnetwork.com/cities/austin/)
@@ -106,6 +112,14 @@ Newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
 * [Austin Tech Events newsletter](https://techeventsnetwork.com/cities/austin/) - weekly list of local events
 * [Capital Factory newsletter](https://www.capitalfactory.com/) - scroll to the bottom of homepage for newsletter sign-up
+
+## Networking resources
+
+Articles:
+* [Best Questions to Ask at Networking Events](https://www.forbes.com/sites/elanagross/2016/05/30/the-best-questions-to-ask-at-networking-events/#7ec63ad4802a)
+* [Top Tips to Build Networking Relationships](https://www.newtechnorthwest.com/how-to-network-the-top-24-tips-to-build-networking-relationships/)
+* [Networking Event Tips for Introverts](https://www.createcultivate.com/blog/2019/2/14/5-networking-event-tips-for-introverts)
+* [How to Make Connections That Count — Advice From a Silicon Valley Veteran (and Introvert)](https://firstround.com/review/how-to-make-connections-that-count-advice-from-a-silicon-valley-veteran-and-introvert/)
 
 ## Class discussion
 
