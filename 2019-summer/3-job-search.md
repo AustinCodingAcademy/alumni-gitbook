@@ -17,6 +17,10 @@ During the Scrum Meeting, we'll go around the circle and everyone will have **on
   * Company culture - diversity, benefits, flexible schedule, etc.
   * Anything else that's important to you
   
+## Guest speaker
+
+Fanny from [Cox Enterprises](https://www.coxenterprises.com/) will present about her company as well as some insight into the importance of networking.
+  
 ## Job search: Getting started
 
 Food for thought:
