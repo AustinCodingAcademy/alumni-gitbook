@@ -81,7 +81,9 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 * **Excuse me, may I join you?**
   * Politely asking to join a conversation is an expected practice at networking events. Everyone is there to meet others, so they will likely welcome the chance to talk to someone new.
 * **Expect 5 minutes or less with recruiters.**
-  * Recruiters are often in high demand at networking events. There might even be a line in front of their booth to talk to them! Have your career story and questions prepared ahead of time, so you can cut to the chase when you're face-to-face. 
+  * Recruiters are often in high demand at networking events. There might even be a line in front of their booth to talk to them! Have your career story and questions prepared ahead of time, so you can cut to the chase when you're face-to-face.
+* **It's been great talking to you...**
+  * Don't feel trapped in a conversation. It's normal to politely excuse yourself if you need to get moving on those networking goals! Politely thank the person or group for their time, exchange contact info (if you'd like), and move on.
 * **Ask questions.**
   * Whether you're talking to a recruiter or a fellow techie, asking questions is a surefire way to get to know them. Need ideas? Check out [Forbes' list of best questions to ask at networking events](https://www.forbes.com/sites/elanagross/2016/05/30/the-best-questions-to-ask-at-networking-events/#7ec63ad4802a).
 * **Get their contact info.**
