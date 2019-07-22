@@ -89,7 +89,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 * **Get their contact info.**
   * If your conversation with someone is going well, remember to ask for their contact info so you can get in touch later!
 * **Smile!**
-  * A friendly smile goes a long way! 😃
+  * A friendly smile goes a long way. 😃
 
 ### After the event
 
@@ -97,7 +97,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
   * If it's someone you'd like to keep in touch with, include a **call to action** in your message.
     * For recruiters, ask for a phone call to learn more about their open roles. That shows you're interested and want to keep the conversation going.
     * For others, suggest meeting for coffee/lunch or attending a future networking event together.
-  * Make it personal: Thank them for their time and include details of the conversation that you enjoyed.
+  * Make it personal: Thank them for their time and include details you enjoyed about the conversation.
 
 ## Networking events
 
