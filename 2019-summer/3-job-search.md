@@ -114,13 +114,21 @@ Tips when dealing with recruiters:
 
 ## Homework
 
-* Research companies in Austin that hire folks in your desired role(s).
-* **Create a list of 5 companies you'd like to apply to.**
-  * Focus on companies with openings for your desired role(s) (or similar roles).
-* **For each company,** gather the following info:
-  * Name of a person at that company that can help you start the application process (recruiter, HR representative, someone you know, etc.)
-  * Contact info for that person (email, phone number, LinkedIn profile, etc.)
-  * Your plan of action! **When** and **how** will you start a conversation with that person to learn more? (1-3 sentences)
-* To turn in this homework assignment, email your list and company info to Dana.
+* **For Thursday 7/25:**
+  * Prepare for the class field trip to WeConnect's Austin Tech Networking Mixer:
+    * Research employers who will be attending, including any open roles you're interested in.
+    * Refine and practice your [dream job story](https://alumni.austincodingacademy.com/_book/2019-summer/3-job-search.html#question-of-the-day), your [career story](https://alumni.austincodingacademy.com/_book/2019-summer/2-personal-brand.html#career-story) , and your [project stories](https://alumni.austincodingacademy.com/_book/2019-summer/2-personal-brand.html#project-stories) until you feel confident about sharing with anyone you meet, including recruiters.
+    * Print copies of your resume
+    * Prepare business cards or download the LinkedIn app to your phone
+
+* **For Tuesday 7/29:**
+  * Research companies in Austin that hire folks in your desired role(s).
+  * **Create a list of 5 companies you'd like to apply to.**
+    * Focus on companies with openings for your desired role(s) (or similar roles).
+  * **For each company,** gather the following info:
+    * Name of a person at that company that can help you start the application process (recruiter, HR representative, someone you know, etc.)
+    * Contact info for that person (email, phone number, LinkedIn profile, etc.)
+    * Your plan of action! **When** and **how** will you start a conversation with that person to learn more? (1-3 sentences)
+  * To turn in this homework assignment, email your list and company info to Dana.
 
 {% include "/includes/footer.md" %}
