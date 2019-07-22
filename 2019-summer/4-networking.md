@@ -142,7 +142,7 @@ Articles:
 * Where do you go to find out about tech-related events in Austin?
 * Are there any Meetup groups or community organizations that have been helpful to your job search?
 
-## Homework
+## Homework (optional)
 
 * Research networking events. See the resource list above for ideas!
 * **Create a list of 5 Meetups or regularly-occurring networking events that you're interested in attending.**
@@ -152,6 +152,6 @@ Articles:
 * **Choose one upcoming event that you plan to attend.** It can be one of the Meetups/events on your list, or a different event that's not on your list.
   * Set a concrete game plan / goal for the event.
     * Examples: Speak to a representative from 3 companies you're interested in, talk to at least 1 person about your favorite coding project, etc.
-* To turn in this homework assignment, email your list and chosen event to Dana.
+* This homework assignment is optional, but highly recommended!
 
 {% include "/includes/footer.md" %}
