@@ -77,7 +77,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 ### During the event
 
 * **Embrace the awkwardness.**
-  * It's normal to feel awkward at events like these. Take breaks between conversations. Step outside or take a trip to the restroom if you need a breather.
+  * It's normal to feel awkward at events like these. Take breaks between conversations with new people. Link up with your networking buddy and debrief for 5 minutes. Or step outside or take a trip to the restroom if you need a breather.
 * **Excuse me, may I join you?**
   * Politely asking to join a conversation is an expected practice at networking events. Everyone is there to meet others, so they will likely welcome the chance to talk to someone new.
 * **Expect 5 minutes or less with recruiters.**
