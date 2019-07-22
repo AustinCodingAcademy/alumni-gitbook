@@ -76,9 +76,18 @@ Networking events can feel much less daunting when you have a goal in mind. The 
   
 ### During the event
 
-* Ask questions.
-  * Need ideas? Check out [Forbes' list of best questions to ask at networking events](https://www.forbes.com/sites/elanagross/2016/05/30/the-best-questions-to-ask-at-networking-events/#7ec63ad4802a).
-* Smile!
+* **Embrace the awkwardness.**
+  * It's normal to feel awkward at events like these. Take breaks between conversations. Step outside or take a trip to the restroom if you need a breather.
+* **Excuse me, may I join you?**
+  * Politely asking to join a conversation is an expected practice at networking events. Everyone is there to meet others, so they will likely welcome the chance to talk to someone new.
+* **Expect 5 minutes or less with recruiters.**
+  * Recruiters are often in high demand at networking events. There might even be a line in front of their booth to talk to them! Have your career story and questions prepared ahead of time, so you can cut to the chase when you're face-to-face. 
+* **Ask questions.**
+  * Whether you're talking to a recruiter or a fellow techie, asking questions is a surefire way to get to know them. Need ideas? Check out [Forbes' list of best questions to ask at networking events](https://www.forbes.com/sites/elanagross/2016/05/30/the-best-questions-to-ask-at-networking-events/#7ec63ad4802a).
+* **Get their contact info.**
+  * If your conversation with someone is going well, remember to ask for their contact info so you can get in touch later!
+* **Smile!**
+  * A friendly smile goes a long way! 😃
 
 ### After the event
 
