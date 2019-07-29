@@ -122,6 +122,15 @@ Here is an example you can use as a template:
 > Best,<br/>
 > Dana Wen
 
+## Organizing your job search
+
+As you begin reaching out to employers and applying to open roles, it's important to stay organized. Here are some tools that can help you keep track of where you are in the process with each potential employer:
+
+* [Trello](https://trello.com/en-US/tour) - Free project-management and organization tool
+  * Sample [Trello job search board](https://trello.com/b/cjpRFWvE/job-search-template)
+* [Asana](https://asana.com/) - Project-management software (personal tier is free)
+* Google Sheets or Microsoft Excel
+
 ## Class discussion
 
 **Today's Topic:** Job search resources & sharing
