@@ -43,6 +43,12 @@ Congratulations! You just completed a one-minute pitch for your favorite project
 
 ## Interviewing resources
 
+Books:
+* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - the gold standard for technical interview prep
+* [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/ref=dp_ob_title_bk)
+* [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - reference book
+
+Articles:
 * [Facebook Hiring Process](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 * [FizzBuzz whiteboarding example (YouTube video)](https://www.youtube.com/watch?v=7IbxzIyRMrA)
 * [InterviewCake](https://www.interviewcake.com/) - free interview resources that breaks down solutions into step-by-step chunks
