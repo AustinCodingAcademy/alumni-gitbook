@@ -60,7 +60,9 @@ Job boards:
 * [Angel List - Austin](https://angel.co/austin/jobs) - tech & startup jobs
 * [Hacker News - "Who's Hiring?" posts](https://hnhiring.com/) - updated at the beginning of every month
 * [Built In Austin job postings](https://www.builtinaustin.com/jobs)
+* [Austin Digital Jobs (Facebook group)](https://www.facebook.com/groups/austindigitaljobs/)
 * [Capital Factory Jobs (Facebook group)](https://www.facebook.com/groups/capitalfactoryjobs/)
+* [We Work Remotely](https://weworkremotely.com/) - remote jobs
 
 Lists of local companies:
 * [Austin Tech Alliance member companies](https://www.austintech.org/members)
