@@ -27,6 +27,7 @@ Common questions:
 * What makes you a good fit for this role?
 * Why do you want to work here?
 * What can you tell me about yourself?
+* What's your ideal job?
 * Can you list your strengths?
 * What weaknesses do you have?
 * Why should I consider hiring you?
