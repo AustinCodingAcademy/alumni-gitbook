@@ -108,18 +108,18 @@ Establishing a personal connection with a potential employer is **critical**! It
 
 Whenever you submit a job application, or even if you just find a job posting that sounds interesting, make a point of emailing someone at the company to introduce yourself and express your interest. Remember to include a call to action in your email, like asking for a phone call with a specific person/role. 
 
-Here is a real-life example you can use as a template:
+Here is an example you can use as a template:
 
 > Hello,
 > 
-> I'm interested in learning about open Course Instructor positions at Austin Coding Academy. I just scheduled a phone appointment through your website for Thursday, 6/28 at 2:30pm. Would it be possible to talk to one of your hiring managers at that time?
+> I'm interested in the open position for a Front End Developer at Cool Software Enterprises. I've submitted my application through your online portal, and I'm eager to learn more about the role. Would it be possible to schedule a brief phone conversation with one of your hiring managers?
 > 
-> A little about me: I'm a Full-Stack Software Engineer with 6+ years of industry experience. My most recent programming stack includes C#/.NET, JavaScript, and MySQL, but I've also worked in Java. I'm interested in teaching as a way to build a new skillset and give back to the community while keeping my coding chops sharp.
-> For more details about my work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/danawen).
+> A little about me: I'm a Full-Stack Web Developer and recent graduate of Austin Coding Academy. My technology stack includes JavaScript, React, and HTML/CSS, but I've also worked with Node.js.
+> For details about my portfolio and work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/danawen).
 > 
-> Thanks much for your time. I look forward to speaking with a team member on Thursday.
+> Thanks much for your time. I look forward to speaking with one of your hiring managers soon.
 > 
-> Best,
+> Best,<br/>
 > Dana Wen
 
 ## Class discussion
