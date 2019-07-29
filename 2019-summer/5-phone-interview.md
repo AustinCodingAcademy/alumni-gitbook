@@ -24,18 +24,28 @@ Non-technical phone interviews are usually 30 minutes long. You'll probably comp
 Common questions:
 
 * Why are you applying for this role?
+  * Even though you likely applied for the $$$, you must be prepared to give a better reason!
+    * I use X product made by the company
+    * I'm interested in the company's industry
+    * I've read the company blog
+    * The company has a reputation as a great place to work
 * What makes you a good fit for this role?
 * Why do you want to work here?
 * What can you tell me about yourself?
 * What's your ideal job?
+* What motivates you?
+* What makes a good team player?
 * Can you list your strengths?
 * What weaknesses do you have?
 * Why should I consider hiring you?
 * Where do you see yourself five years from now?
-* What is your salary expectation? - *If you get asked this question, politely defer answering until later in the interview process*
-* What motivates you?
-* What makes a good team player?
-* Is there anything that you would like to ask me? - *Be sure to have questions ready!*
+* What is your salary expectation?
+  * Don't feel pressured to answer this! Politely defer talking about compensation until later in the interview process.
+* Is there anything that you would like to ask me?
+  * Be sure to have some questions ready to ask your interviewer!
+    * "How long have you worked there?"
+    * "How do you like it?"
+    * "What do you most like about it?"
 
 ### Coding/technical phone interviews
 
