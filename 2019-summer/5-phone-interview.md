@@ -23,16 +23,18 @@ Non-technical phone interviews are usually 30 minutes long. You'll probably comp
 
 Common questions:
 
+* Why are you applying for this role?
+* What makes you a good fit for this role?
+* Why do you want to work here?
 * What can you tell me about yourself?
 * Can you list your strengths?
 * What weaknesses do you have?
 * Why should I consider hiring you?
 * Where do you see yourself five years from now?
-* Why do you want to work here?
-* What is your salary expectation?
+* What is your salary expectation? - *If you get asked this question, politely defer answering until later in the interview process*
 * What motivates you?
 * What makes a good team player?
-* Is there anything that you would like to ask me?
+* Is there anything that you would like to ask me? - *Be sure to have questions ready!*
 
 ### Coding/technical phone interviews
 
@@ -49,7 +51,10 @@ Sample 30-min technical phone interview flow:
 
 ## Other types of remote interviews
 
-## Class discussion
+Here are some other types of preliminary interviews you may encounter during the process:
+* Programming / technical knowledge test
+* Coding challenge (find the bugs in a section of code, implement a small feature, etc.)
+* Behavioral / personality test
 
 ## Homework
 
