@@ -4,7 +4,7 @@
 
 ## Guest speakers: Interview demo
 
-Special guests Edsel and Charles will demo a technical phone interview! You'll have a chance to ask them questions afterwards.
+Special guests Edsel Rivera and Charles Cole will demo a technical phone interview! You'll have a chance to ask them questions afterwards.
 
 ## Question of the day
 
