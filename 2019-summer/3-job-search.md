@@ -68,6 +68,7 @@ Lists of local companies:
 * [Austin Tech Alliance member companies](https://www.austintech.org/members)
 * [Built In Austin company list](https://www.builtinaustin.com/companies)
 * [Capital Factory company list](https://www.capitalfactory.com/portfolio/)
+* [Dana's list](https://docs.google.com/document/d/1VgM9reklHh0PT6L6f7u8XJclV9Sg8sesnq3cu1DYxBo/edit?usp=sharing) - my own personal list, pulled from listing in various Austin tech newsletters
 
 Email newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings (+ events and articles)
