@@ -102,9 +102,25 @@ Tips when dealing with recruiters:
 * Even if a recruiter acts in a pushy manner towards you, remain polite and friendly. You're both members of the same tech community. Who knows, maybe you'll need their help sometime in the future.
 * Can't stress this enough: **Avoid giving anyone any more information than necessary about salary.** It will be recorded, indexed, and shared. Avoid talking about past or current salary to potential employers. If you do, only share what you are expecting **after** the company wants to make an offer.
 
-## Applying to jobs
-
 ## Reaching out to employers
+
+Establishing a personal connection with a potential employer is **critical**! It dramatically increases the chance that your resume or job application will be seen and will make it to the next stage of the process.
+
+Whenever you submit a job application, or even if you just find a job posting that sounds interesting, make a point of emailing someone at the company to introduce yourself and express your interest. Remember to include a call to action in your email, like asking for a phone call with a specific person/role. 
+
+Here is a real-life example you can use as a template:
+
+> Hello,
+> 
+> I'm interested in learning about open Course Instructor positions at Austin Coding Academy. I just scheduled a phone appointment through your website for Thursday, 6/28 at 2:30pm. Would it be possible to talk to one of your hiring managers at that time?
+> 
+> A little about me: I'm a Full-Stack Software Engineer with 6+ years of industry experience. My most recent programming stack includes C#/.NET, JavaScript, and MySQL, but I've also worked in Java. I'm interested in teaching as a way to build a new skillset and give back to the community while keeping my coding chops sharp.
+> For more details about my work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/danawen).
+> 
+> Thanks much for your time. I look forward to speaking with a team member on Thursday.
+> 
+> Best,
+> Dana Wen
 
 ## Class discussion
 
