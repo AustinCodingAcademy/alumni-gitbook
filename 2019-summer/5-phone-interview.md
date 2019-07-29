@@ -69,4 +69,6 @@ Here are some other types of preliminary interviews you may encounter during the
 
 ## Homework
 
+Write down your own answers to all the questions in the ["Non-technical phone interviews" section](https://alumni.austincodingacademy.com/_book/2019-summer/5-phone-interview.html#non-technical-phone-interviews) above.
+
 {% include "/includes/footer.md" %}
