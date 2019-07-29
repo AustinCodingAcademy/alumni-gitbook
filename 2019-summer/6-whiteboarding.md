@@ -52,15 +52,25 @@ Books:
 * [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/ref=dp_ob_title_bk)
 * [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - reference book
 
-Articles:
+General interview prep:
+* [CodeWars](https://www.codewars.com/) - coding challenges
+* [HackerRank](https://www.hackerrank.com/) - coding interview practice
 * [Facebook Hiring Process](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 * [FizzBuzz whiteboarding example (YouTube video)](https://www.youtube.com/watch?v=7IbxzIyRMrA)
 * [InterviewCake](https://www.interviewcake.com/) - free interview resources that breaks down solutions into step-by-step chunks
 * [HiredInTech’s System Design Section](https://www.hiredintech.com/system-design/) - guide for system design interview questions
 * [Coderust](https://www.educative.io/collection/5642554087309312/5679846214598656) - $59 app that presents coding problems and solutions in almost any programming language, with interactive diagrams
 * [Reddit’s How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-* [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - an exhaustive list of front-end questions
 * [Leetcode](https://leetcode.com/) - the go-to resource for algorithm and data structure questions. You can filter by company, so for example, you could get all the questions that Uber or Google typically ask.
+
+Front-end resources:
+* [That JS Dude - Interview Questions for Front-End Developers](http://www.thatjsdude.com/interview)
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+* [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - an exhaustive list of front-end questions
+
+.NET resources:
+* [17 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
 
 ## Class discussion
 
