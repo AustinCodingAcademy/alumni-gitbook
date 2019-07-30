@@ -157,6 +157,6 @@ As you begin reaching out to employers and applying to open roles, it's importan
     * Name of a person at that company that can help you start the application process (recruiter, HR representative, someone you know, etc.)
     * Contact info for that person (email, phone number, LinkedIn profile, etc.)
     * Your plan of action! **When** and **how** will you start a conversation with that person to learn more? (1-3 sentences)
-  * To turn in this homework assignment, email your list and company info to Dana.
+  * To turn in this homework assignment, email your list and company info to Dana (dana@austincodingacademy.com).
 
 {% include "/includes/footer.md" %}
