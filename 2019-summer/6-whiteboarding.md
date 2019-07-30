@@ -41,6 +41,31 @@ Congratulations! You just completed a one-minute pitch for your favorite project
 
 ## Whiteboarding
 
+Whiteboarding has a reputation for being the hardest part of the interview process. During whiteboarding interviews, the candidate stands in front of a white board and solves a coding problem while writing and talking out loud.
+
+Why do employers include whiteboarding in the interview process?
+Here are some goals of whiteboarding interviews:
+
+* See how the candidate approaches tricky coding problems.
+* Understand the candidate's thought process while solving problems.
+* Test the candidate's communication skills. Can they communicate a technical solution to others? How do they communicate under pressure?
+* Get a sense of what it's like to collaborate with the candidate on a technical problem.
+
+Whiteboarding interview myths:
+
+* You must correctly solve the coding question or they won't offer you a job.
+  * FALSE. The goal of the interview is to see how you solve problems and communicate.
+
+### Whiteboarding tips & tricks
+
+* **Keep talking.** As with any type of interview, your goal should be to turn the whiteboarding session into as much of a conversation as possible. Explain everything you're thinking and writing on the board to the interviewer. Even if you're feeling unsure about something, say so: "I'm not 100% sure an array is the best solution for this, but I'm going to give it a try because..." A good interviewer will give you hints and guide you towards the solution.
+
+* **Use pseudocode.** Don't get hung up on writing code with perfect syntax. The goal of the interview is to see how you think through problems, not to test your recollection of syntax rules. Use "pseudocode" - coding shorthand that explains what your solution is supposed to do. If you don't remember a function or method name, just make it up (eg. `lowerCase(word)`). You can even go as far as just [write what you expect each line to do](https://www.unf.edu/~broggio/cop2221/2221pseu.htm).
+
+* **Don't worry about creating a perfect solution on the first try.** 
+
+* **The interviewer wants you to succeed.**
+
 ### Whiteboarding practice problems
 
 * [ACA whiteboard challenge questions](https://github.com/ACA-Alumni/ACA-Job-Tracker/tree/master/resources/whiteboard-challenges) - from the 2018 version of this class (click on any of the `.md` files to view the question)
