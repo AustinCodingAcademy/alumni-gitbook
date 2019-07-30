@@ -149,7 +149,7 @@ As you begin reaching out to employers and applying to open roles, it's importan
     * Print copies of your resume
     * Prepare business cards or download the LinkedIn app to your phone
 
-* **For Tuesday 7/29:**
+* **For Tuesday 7/30:**
   * Research companies in Austin that hire folks in your desired role(s).
   * **Create a list of 5 companies you'd like to apply to.**
     * Focus on companies with openings for your desired role(s) (or similar roles).
