@@ -101,14 +101,28 @@ General interview prep:
 Front-end resources:
 * [That JS Dude - Interview Questions for Front-End Developers](http://www.thatjsdude.com/interview)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - an exhaustive list of front-end questions
+
+JavaScript resources:
+* [Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+* [CodeMentor Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
+* [Front End Interview Handbook: JS Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
+
+React resources:
+* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+* [Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
+* [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
 .NET resources:
 * [17 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
 
-## Class discussion
+## Homework (optional, but highly recommended!)
 
-## Homework
+* **Part 1:** Research onsite interview formats for the companies you're interested in. The [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/company-interview-formats) is a good place to start - it covers onsite interview formats for some of the most popular companies (Google, Facebook, Dropbox, etc). For smaller companies, look on job search forums and blogs - you may be able to find some clues about what to expect during the onsite interview process.
+
+* **Part 2:** Get yourself a copy of [Cracking the Coding Interview], the gold standard for technical interview prep. [Austin Public Library](https://austin.bibliocommons.com/item/show/1106616067) has 8 copies available. If you would like to purchase a copy, BookPeople in downtown Austin usually has a few copies in stock, or they will happily order it for you if it's sold out.
+  * Once you have your copy, read Section VII (Technical Questions). It's a great summary of what to expect in technical interviews and how to prepare.
+  
+* **Part 3:** Develop a plan of action and start practicing! Plan to practice coding questions on a frequent, regular basis. Set aside time every day to practice your technical interview skills. Using the resources above, gather a list of questions to use as practice material and schedule out time to tackle each question.
 
 {% include "/includes/footer.md" %}
