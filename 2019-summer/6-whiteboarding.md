@@ -53,7 +53,9 @@ Whiteboarding interview myths:
   
 ### How to approach coding questions
 
+Use this handy problem-solving flowchart from [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/):
 
+![Problem-solving flowchart](interview-flowchart.png)
 
 ### Whiteboarding tips & tricks
 
