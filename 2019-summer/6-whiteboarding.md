@@ -19,26 +19,6 @@ Congratulations! You just completed a one-minute pitch for your favorite project
 
 ## Onsite interviews
 
-### How to approach the interview
-
-* Ensure that you spend time planning your approach but remember you can always go brute force and then optimize from there.
-
-* Articulate/code up a working solution (even if it feels inefficient) and then iterate rather than immediately trying to jump to the clever solution, if you cannot explain your solution clearly in 5 minutes, it's probably too complex for the problem at hand.
-
-* Make sure you are asking clarifying questions as you go along (there will not be tricks but you will need to ensure you have all the info you need).
-
-* Practice talking through your coding out loud while you are doing it - the interviewers need to see where you are headed with your solutions and if you talk they can provide hints.
-
-* Spend a little time thinking about how you would walk someone else through your past projects, what you did on them (as opposed to what your team did), and what you learned from them.
-
-* Come prepared with questions for your interviewer - this is just as much a chance for you to ensure that this is the place you want to be.
-
-* Make sure you use good test cases that will find edge/corner cases.
-
-* You will need to debug your code.
-
-* Remember the interviewer will ask for a quick intro, please be prepared to talk about your most recent technical work quickly but in detail so it doesn't eat into your coding time.
-
 ## Whiteboarding
 
 Whiteboarding has a reputation for being the hardest part of the interview process. During whiteboarding interviews, the candidate stands in front of a white board and solves a coding problem while writing and talking out loud.
@@ -58,13 +38,21 @@ Whiteboarding interview myths:
 
 ### Whiteboarding tips & tricks
 
-* **Keep talking.** As with any type of interview, your goal should be to turn the whiteboarding session into as much of a conversation as possible. Explain everything you're thinking and writing on the board to the interviewer. Even if you're feeling unsure about something, say so: "I'm not 100% sure an array is the best solution for this, but I'm going to give it a try because..." A good interviewer will give you hints and guide you towards the solution.
+* **Remember that the interviewer will ask for a quick intro.** Be prepared to give a technical summary of a favorite project, but keep it brief so it doesn't eat too much into your coding time. The interviewer may ask a few technical questions about your project and how it was implemented.
+
+* **Don't worry about creating a perfect solution on the first try.** Articulate a working solution (even if it feels inefficient) and then iterate rather than immediately trying to jump to the clever solution. If you cannot explain your solution clearly in 5 minutes, it's probably too complex for the problem at hand.
 
 * **Use pseudocode.** Don't get hung up on writing code with perfect syntax. The goal of the interview is to see how you think through problems, not to test your recollection of syntax rules. Use "pseudocode" - coding shorthand that explains what your solution is supposed to do. If you don't remember a function or method name, just make it up (eg. `lowerCase(word)`). You can even go as far as just [write what you expect each line to do](https://www.unf.edu/~broggio/cop2221/2221pseu.htm).
 
-* **Don't worry about creating a perfect solution on the first try.** 
+* **Keep talking.** As with any type of interview, your goal should be to turn the whiteboarding session into as much of a conversation as possible. Explain everything you're thinking and writing on the board to the interviewer. Even if you're feeling unsure about something, say so: "I'm not 100% sure an array is the best solution for this, but I'm going to give it a try because..." A good interviewer will give you hints and guide you towards the solution.
 
-* **The interviewer wants you to succeed.**
+* **Ask questions.** Make sure you are asking clarifying questions as you go along, to make sure you have the information you need to create a solution. The interviewer will often give you hints or indicate if you're headed in the right direction.
+
+* **Test, test, test.** The interviewer will expect you to test and debug your code. Think about edge/corner cases. For example, what happens if the input is null?
+
+* **The interviewer wants you to succeed.** If an employer has invited you onsite for a round of technical interviews, they've already invested a lot of energy on you and think you're a good fit for the role. Your interviewer's job is not to grill you, but to see how you'd interact and solve problems as a member of their team. This is also an opportunity to see if you enjoy working with them.
+
+* **Come prepared with questions for your interviewer.** This is just as much a chance for you to ensure that the company is the place you want to be.
 
 ### Whiteboarding practice problems
 
