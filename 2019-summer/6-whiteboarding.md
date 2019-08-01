@@ -87,6 +87,7 @@ Books:
 * [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - reference book
 
 General interview prep:
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - free online resource by Yangshun Tay, a front-end engineer at Facebook
 * [CodeWars](https://www.codewars.com/) - coding challenges
 * [HackerRank](https://www.hackerrank.com/) - coding interview practice
 * [Facebook Hiring Process](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
