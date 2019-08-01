@@ -19,6 +19,24 @@ Congratulations! You just completed a one-minute pitch for your favorite project
 
 ## Onsite interviews
 
+## What to wear & bring
+
+Interview attire:
+* For most tech companies, a full business suit is not necessary.
+* Women:
+  * Slacks/skirt paired with a blouse or button-down shirt
+  * An office-appropriate dress
+* Men:
+  * Slacks and a button-down shirt
+  * Blazer and tie are optional
+* If you're interviewing with a company that's in an industry with a more formal dress code (business, consulting, law, etc) you may need to dress according to the norms for that industry, even though you're applying for a technical role.
+* When in doubt, err on the side of dressing too formally!
+
+Bring along:
+* Copies of your resume, just in case
+* Water bottle
+* In some cases, employers will ask you to bring a laptop for technical interviews
+
 ## Interview day: What to expect
 
 Onsite interviews can last anywhere between a few hours to a full day. You'll typically be met by a recruiter or someone from HR who will serve as your host for the day. They'll welcome you, perhaps give you a tour of the office, and spend a few minutes chatting about the plan for your visit. This is a great time to ask questions so you know what to expect.
