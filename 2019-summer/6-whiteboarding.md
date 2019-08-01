@@ -73,7 +73,7 @@ Whiteboarding interview myths:
 
 Use this handy problem-solving flowchart from [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/):
 
-![Problem-solving flowchart](interview-flowchart.png)
+<img src="interview-flowchart.png" width="500px" />
 
 ### Whiteboarding tips & tricks
 
