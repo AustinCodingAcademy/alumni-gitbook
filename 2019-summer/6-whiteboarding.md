@@ -19,6 +19,18 @@ Congratulations! You just completed a one-minute pitch for your favorite project
 
 ## Onsite interviews
 
+## Interview day: What to expect
+
+Onsite interviews can last anywhere between a few hours to a full day. You'll typically be met by a recruiter or someone from HR who will serve as your host for the day. They'll welcome you, perhaps give you a tour of the office, and spend a few minutes chatting about the plan for your visit. This is a great time to ask questions so you know what to expect.
+
+Technical interview formats vary between companies. Some employers favor 1:1 coding interviews, while others will have 2 or 3 engineers interview the candidate at one time. Ask your host what to expect.
+
+If your visit is scheduled for a full day, someone from the company will take you to lunch. This will likely be a product manager, team lead, or HR representative. Lunch hour will be more casual than the technical interviews, but remember that it is still an interview! Be prepared to talk about your reasons for applying to the company, your career goals, and the projects you've worked on.
+
+At the end of your interview day, your host will typically have a closing chat with you to debrief and see how things went. This is a good time to ask about the next steps in the process.
+
+After your onsite interviews, follow up with each interviewer by sending a brief thank-you email.
+
 ## Whiteboarding
 
 Whiteboarding has a reputation for being the hardest part of the interview process. During whiteboarding interviews, the candidate stands in front of a white board and solves a coding problem while writing and talking out loud.
@@ -34,7 +46,14 @@ Here are some goals of whiteboarding interviews:
 Whiteboarding interview myths:
 
 * You must correctly solve the coding question or they won't offer you a job.
-  * FALSE. The goal of the interview is to see how you solve problems and communicate.
+  * FALSE. The goal of the interview is to see how you solve problems and communicate. While a correct solution to the problem certainly helps your case, don't despair if you run out of time or have a few bugs in your code. Many coding questions are designed to be too difficult and/or lengthy for the allotted interview time. In those cases, the interviewer simply wants to see how far you can get with the question.
+  
+* The code you write one the whiteboard must compile.
+  * FALSE. While you should demonstrate that you understand the basic syntax of the language you're using, don't sweat it if you can't remember specific syntax details about built-in libraries (string methods, floor/ceiling functions, etc). The interviewer is more concerned about your approach to solving the overall problem.
+  
+### How to approach coding questions
+
+
 
 ### Whiteboarding tips & tricks
 
