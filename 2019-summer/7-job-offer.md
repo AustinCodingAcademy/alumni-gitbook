@@ -125,7 +125,9 @@ You can also cite skills and competencies that you bring to the table:
 * [How to Evaluate, Accept, Reject, or Negotiate a Job Offer](https://hbr.org/2017/04/how-to-evaluate-accept-reject-or-negotiate-a-job-offer)
 * [Negotiation Strategy: Asking Questions](https://women2.com/2017/09/21/want-to-win-your-next-negotiation-ask-a-simple-question/) 
 
-## Homework (optional)
+## Homework
+
+This homework assignment is optional, but highly recommended!
 
 Make a list of three professional "wins" that you can talk about during job interviews and salary negotiation. (These do not need to be coding-related.)
 
