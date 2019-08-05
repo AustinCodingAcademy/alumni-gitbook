@@ -15,7 +15,7 @@ During the Scrum Meeting, we'll go around the circle and everyone will have one 
     
 ## Job Offers
 
-Here are a few notes on job offers (from [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)):
+Here are a few notes on job offers (adapted from [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)):
 
 * **Offer deadlines and extensions:** When companies extend an offer, there's almost always a deadline attached to it. Usually these deadlines are 1-4 weeks out. If you're still waiting to hear back from other companies, you can ask for an extension.
 
@@ -26,8 +26,17 @@ Here are a few notes on job offers (from [Cracking the Coding Interview](http://
 * **Evaluating the job offer:** Here are a few factors you should consider when evaluating your job offer.
   * Financial compensation package - salary, signing bonus, relocation budget, annual bonus, stock options/grants, etc.
   * Career development - company reputation, path to promotion, learning and mentorship opportunities, etc.
-  * Company stability
+  * Company stability - startup vs. established company, how much risk are you personally willing to take on?
   * Happiness factor - products/projects you'll be working on, manager and teammates, company culture, work/life balance
+  
+* **Ask questions:** After receiving your job offer, gather as much info as you can about your potential new role. Here are some questions you can ask the recruiter or hiring manager:
+  * Can I shadow someone in this role for a day?
+  * How would I be on-boarded to the company?
+  * What does success look like in this position, for a year?
+  * Can you give me an example of someone on this team who was recently promoted?
+  * Can you tell me how you determined my salary?
+  * When would I be eligible for a raise and/or promotion?
+  * What is the average bonus for someone at my level?
 
 ## Salary Negotiation
 
@@ -108,6 +117,13 @@ You can also cite skills and competencies that you bring to the table:
 * Professional network
 * Certifications
 * Awards
+
+### Salary negotiation resources
+
+* [HelpScout: The Art of Negotiation](https://www.helpscout.com/blog/how-to-negotiate/)
+* [Harvard Business Review: How to Evaluate, Accept, Reject, or Negotiate a Job Offer](https://hbr.org/2017/04/how-to-evaluate-accept-reject-or-negotiate-a-job-offer)
+* [Women 2.0: Negotiation Strategy - Asking Questions](https://women2.com/2017/09/21/want-to-win-your-next-negotiation-ask-a-simple-question/)
+* 
 
 ## Homework (optional)
 
