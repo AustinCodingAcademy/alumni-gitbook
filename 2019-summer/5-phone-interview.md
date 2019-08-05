@@ -44,8 +44,9 @@ Common questions:
 * Is there anything that you would like to ask me?
   * Be sure to have some questions ready to ask your interviewer!
     * "How long have you worked there?"
-    * "How do you like it?"
-    * "What do you most like about it?"
+    * "What do you like most about it?"
+    * "If there was one thing you could change about working there, what would it be?"
+    * "What are the company's goals/vision?"
 
 ### Coding/technical phone interviews
 
