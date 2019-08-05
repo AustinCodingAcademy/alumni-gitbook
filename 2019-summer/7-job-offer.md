@@ -120,10 +120,10 @@ You can also cite skills and competencies that you bring to the table:
 
 ### Salary negotiation resources
 
-* [HelpScout: The Art of Negotiation](https://www.helpscout.com/blog/how-to-negotiate/)
-* [Harvard Business Review: How to Evaluate, Accept, Reject, or Negotiate a Job Offer](https://hbr.org/2017/04/how-to-evaluate-accept-reject-or-negotiate-a-job-offer)
-* [Women 2.0: Negotiation Strategy - Asking Questions](https://women2.com/2017/09/21/want-to-win-your-next-negotiation-ask-a-simple-question/)
-* 
+* [Guide to Negotiation for Software Developers](https://simpleprogrammer.com/salary-negotiation-software-developers/)
+* [The Art of Negotiation](https://www.helpscout.com/blog/how-to-negotiate/)
+* [How to Evaluate, Accept, Reject, or Negotiate a Job Offer](https://hbr.org/2017/04/how-to-evaluate-accept-reject-or-negotiate-a-job-offer)
+* [Negotiation Strategy: Asking Questions](https://women2.com/2017/09/21/want-to-win-your-next-negotiation-ask-a-simple-question/) 
 
 ## Homework (optional)
 
