@@ -91,6 +91,19 @@ You can also cite skills and competencies that you bring to the table:
 * Certifications
 * Awards 
 
-## Homework
+## Homework (optional)
+
+Make a list of three wins that you can talk about during job interviews and salary negotiation.
+Here are some ideas:
+* Projects and achievements you're proud of
+* Obstacles and challenges you overcame
+* Situations when you went above and beyond what was expected
+* Situations where you took initiative
+
+For each win on your list, practice using the STAR method to craft a compelling story.
+* S - Situation (set the scene)
+* T - Task (describe what was required, when, where, who was involved)
+* A - Action (what you did, skills used)
+* R - Result (what happened?)
 
 {% include "/includes/footer.md" %}
