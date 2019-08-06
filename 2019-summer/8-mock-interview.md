@@ -2,13 +2,13 @@
 
 # Mock Interview Day
 
-## Question of the day
+<!--## Question of the day-->
 
-During the Scrum Meeting, we'll go around the circle and everyone (including special guests!) will have **one minute** to answer the following prompt:
+<!--During the Scrum Meeting, we'll go around the circle and everyone (including special guests!) will have **one minute** to answer the following prompt:-->
 
-* What's your favorite programming language? Why?<br/>
+<!--* What's your favorite programming language? Why?<br/>
 **OR**
-* What's your favorite web technology? Why?
+* What's your favorite web technology? Why?-->
 
 ## Mock Interviews
 
