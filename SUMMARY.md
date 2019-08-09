@@ -29,3 +29,4 @@
   * [AWS Hosting & Whiteboard](lessons/WHITEBOARDING.md)
   * [Take Home Code Challenges](lessons/TAKEHOME.md)
   * [Bowling and Boards](lessons/WHITEBOARDING2.md)
+* [profile-template.md](lessons/profile-template.md)
