@@ -1,3 +1,4 @@
+```md
 ---
 layout: resume #don't touch
 categories: [ hire, graduation, austin ] # don't touch
@@ -57,3 +58,4 @@ projects:
     url: # link to your deployed project
 
 ---
+```
