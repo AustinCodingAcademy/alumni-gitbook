@@ -91,7 +91,7 @@ Use this handy problem-solving flowchart from [Cracking the Coding Interview](ht
 
 * **The interviewer wants you to succeed.** If an employer has invited you onsite for a round of technical interviews, they've already invested a lot of energy on you and think you're a good fit for the role. Your interviewer's job is not to grill you, but to see how you'd interact and solve problems as a member of their team. This is also an opportunity to see if you enjoy working with them.
 
-* **Come prepared with questions for your interviewer.** This is just as much a chance for you to ensure that the company is the place you want to be.
+* **Come prepared with questions for your interviewer.** This is just as much a chance for you to ensure that the company is the place you want to be. [Here's a great list of questions to get you started.](https://www.newtechnorthwest.com/how-to-interview-your-interviewer-6-tips-for-nailing-this-overlooked-step-in-getting-hired/)
 
 ### Whiteboarding practice problems
 
