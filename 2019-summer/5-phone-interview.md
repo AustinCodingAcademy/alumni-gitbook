@@ -47,6 +47,7 @@ Common questions:
     * "What do you like most about it?"
     * "If there was one thing you could change about working there, what would it be?"
     * "What are the company's goals/vision?"
+    * [More ideas...](https://www.newtechnorthwest.com/how-to-interview-your-interviewer-6-tips-for-nailing-this-overlooked-step-in-getting-hired/)
 
 ### Coding/technical phone interviews
 
