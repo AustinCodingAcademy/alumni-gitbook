@@ -57,6 +57,7 @@ Online salary resources:
 * [Indeed salary comparison](https://www.indeed.com/salaries)
 * [Monster.com salary calculator](https://www.monster.com/salary/)
 * [Salary.com](https://www.salary.com/)
+* [Stack Overflow salary calculator](https://stackoverflow.com/jobs/salary)
 
 Leverage your connections! Here's who you can ask about salary values and ranges:
 
