@@ -41,32 +41,32 @@ The course is divided into two sections:
 
 This **two-week** section focuses on everything you'll need to begin applying for jobs and landing those interviews. We'll discuss topics like resumes, online presence, personal brand, job sourcing, and networking.
 
-* [Class 1: Online Presence](2019-summer/1-online-presence.md) - Tuesday, July 16
+* [Class 1: Online Presence](2019-summer/1-online-presence.md) - Tuesday, September 10
   * How is your curb appeal? Make sure your online presence is solid and when that opportunity presents itself, you have your resources ready.
   
-* [Class 2: Your Personal Brand](2019-summer/2-personal-brand.md) - Thursday, July 18
+* [Class 2: Your Personal Brand](2019-summer/2-personal-brand.md) - Thursday, September 12
   * How do you present yourself to potential employers? We'll practice talking about ourselves and our work, and discuss strategies for building confidence in the job search.
   
-* [Class 3: Finding Jobs](2019-summer/3-job-search.md) - Tuesday, July 23
+* [Class 3: Finding Jobs](2019-summer/3-job-search.md) - Tuesday, September 17
   * Where to find the jobs, and what to look and ask for. As a junior developer, what company and role will be the best fit for you?
   
-* [Class 4: Networking](2019-summer/4-networking.md) - Thursday, July 25
+* [Class 4: Networking](2019-summer/4-networking.md) - Thursday, September 19
   * ACA grads, welcome to the Austin tech community! Get ready to build your personal network and leverage connections to help you find those open roles. The job search process is a **lot** easier when we share resources and help each other out.
 
 ### Part 2: The Interview Process
 
 This **two-week** section covers the interview cycle. We'll walk through each stage of the interview process and discuss what to expect at each step. We'll talk about technical interviews, especially coding questions and whiteboarding. There will be plenty of opportunities to build your skills and practice what you've learned!
 
-* [Class 5: Phone Interviews](2019-summer/5-phone-interview.md) - Tuesday, July 30
+* [Class 5: Phone Interviews](2019-summer/5-phone-interview.md) - Tuesday, September 24
   * The interview process typically begins with one or more phone interviews. We'll discuss this important step to getting your foot in the door with a company.
   
-* [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, August 1
+* [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, September 26
   * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
   
-* [Class 7: Job Offers](2019-summer/7-job-offer.md) - Tuesday, August 6
+* [Class 7: Job Offers](2019-summer/7-job-offer.md) - Tuesday, October 1
   * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers, negotiation, and navigating your first day on the job.
   
-* [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, August 8
+* [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, October 3
   * Practice technical and non-technical interviews with folks from industry!
   
 ## Daily Schedule
