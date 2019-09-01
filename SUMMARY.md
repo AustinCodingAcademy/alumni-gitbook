@@ -12,14 +12,14 @@
   * [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md)
   * [Class 7: Job Offers](2019-summer/7-job-offer.md)
   * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md)
-* Previous Version
+* Early 2019 Textbook
   * [Introduction](lessons/INTRODUCTION.md)
   * [Stage 1 - Your Brand](lessons/BRANDING.md)
   * [Stage 2 - The Search](lessons/SEARCH.md)
   * [Stage 3 - Interviewing](lessons/INTERVIEWING.md)
   * [Stage 4 - Day One](lessons/DAYONE.md)
   * [Mock Interview](lessons/MOCKINTERVIEW.md)
-* 2018 Version
+* 2018 Textbook
   * [Introductions and Interview Practice](lessons/INTRODUCTIONS.md)
   * [Interview Practice Questions](lessons/PRACTICEQUESTIONS.md)
   * [Algorithms and Pair-Programming](lessons/ALGORITHMSPAIRPROGRAMMING.md)
