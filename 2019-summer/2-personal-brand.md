@@ -2,23 +2,6 @@
 
 # Developing Your Personal Brand
 
-## Question of the day
-
-During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
-
-* What makes you a great coder?
-  * Tech-related skill
-  * Non-tech-related skill
-* What will make you become an even better coder?
-  * Tech-related skill
-  * Non-tech-related skill
-  
-## Guest speaker
-
-Alyssa Gonzales from [Latinitas](http://latinitasmagazine.org/) will share about a volunteer opportunity with the Code Chica high school certification program.
-
-Volunteering is a great way to get involved in the local tech ecosystem! Not only will you be giving back to the community, you'll have one more thing to brag about to future employers.
-
 ## Your personal brand
 
 What unique qualities do you bring to the table?
