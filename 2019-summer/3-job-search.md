@@ -1,25 +1,6 @@
 {% include "/includes/header.md" %}
 
 # The Job Search
-
-## Question of the day
-
-During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
-
-* What's your dream tech job?
-* Your answer could incorporate any of these characteristics:
-  * Type of role
-  * Industry
-  * Product - what do you want to build?
-  * Technologies - programming languages, frameworks, etc.
-  * Company - size, startup vs. established, etc.
-  * Team culture - size, structure, development/release cycle, "pager duty", etc.
-  * Company culture - diversity, benefits, flexible schedule, etc.
-  * Anything else that's important to you
-  
-## Guest speaker
-
-Fanny from [Cox Enterprises](https://www.coxenterprises.com/) will present about her company as well as some insight into the importance of networking.
   
 ## Job search: Getting started
 
