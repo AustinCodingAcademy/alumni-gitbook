@@ -71,22 +71,22 @@ This **two-week** section covers the interview cycle. We'll walk through each st
   
 ## Daily Schedule
 
-* Scrum Meeting
-  * Announcements
-  * Question of the day (borrowed from actual job interviews!)
-  
 * Topic of the Day
   * Guest speakers
   * Instructor presentation/lecture
   * Exercises
   * Open work time
 
+* Scrum Meeting - group sharing
+  * Announcements
+  * Job search milestones
+  * Learnings
+
 * Class Discussion
   * Deeper dive into an issue relevant to the day's topic
   
 * Closing
   * Homework assignment
-  * "Question of the day" for next class
   * Final questions/notes
 
 ## Course Expectations
