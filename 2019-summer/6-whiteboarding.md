@@ -2,21 +2,6 @@
 
 # Onsite Interviews & Whiteboarding
 
-## Guest speakers: ACA alumni panel
-
-Guest speakers (and ACA alumni) Rachael Thompson, Cynthia Williams, and Lisa Umhey will speak about their job search experience, followed by a Q&A session.
-
-## Question of the day
-
-During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
-
-* What coding project are you most proud of?
-  * What does the project do?
-  * What was your role in the project?
-  * Explain 1-2 features/aspects that make it your favorite project.
-  
-Congratulations! You just completed a one-minute pitch for your favorite project!
-
 ## Onsite interviews
 
 ## What to wear & bring
