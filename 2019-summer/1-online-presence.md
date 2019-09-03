@@ -2,16 +2,6 @@
 
 # Building Your Online Presence
 
-## Question of the day
-
-During the Scrum Meeting, we'll go around the circle and everyone will have **one minute** to answer the following prompt:
-
-* Introduce yourself:
-  * Name
-  * Which ACA track you just completed
-* What inspired you to learn how to code?
-* What brought you to ACA?
-
 ## Online presence - what’s the big deal?
 
 ### Exposure
@@ -149,7 +139,6 @@ Personal website resources:
 ### Sample websites
 
 * https://kevincolten.com
-* https://www.cs.utexas.edu/~simon/ - sample HTML template
 
 ## Miscellaneous tips & tricks
 
