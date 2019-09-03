@@ -1,17 +1,6 @@
 {% include "/includes/header.md" %}
 
 # Post-Interview: Job Offers & Negotiation
-
-## Question of the day
-
-During the Scrum Meeting, we'll go around the circle and everyone will have one minute to answer the following prompt:
-
-* Describe a professional situation when you went above and beyond what was expected of you. (This does **not** need to be coding-related)
-  * Use the STAR method to tell the story!
-    * S - Situation (set the scene)
-    * T - Task (describe what was required, when, where, who was involved)
-    * A - Action (what you did, skills used)
-    * R - Result (what happened?)
     
 ## Job Offers
 
