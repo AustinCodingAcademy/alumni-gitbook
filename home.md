@@ -63,8 +63,9 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 * [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, September 26
   * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
   
-* [Class 7: Job Offers](2019-summer/7-job-offer.md) - Tuesday, October 1
-  * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers, negotiation, and navigating your first day on the job.
+* [Class 7: Job Offers & Graduation Prep](2019-summer/7-job-offer.md) - Tuesday, October 1
+  * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers and salary negotiation.
+  * We'll also spend some time preparing for the October 5 graduation event. We'll go over tips for getting your projects hosted on Heroku and have open rehearsal time for project demos.
   
 * [Class 8: Mock Interviews](2019-summer/8-mock-interview.md) - Thursday, October 3
   * Practice technical and non-technical interviews with folks from industry!
@@ -100,7 +101,7 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 
 ### Homework Assignments
 
-You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each class. Each assignment helps you check off an item on the Job Ready Checklist. **Homework is due one week after it's assigned**, but it's in your best interest to complete the assignments as quickly as possible!
+You'll be a assigned a brief homework assignment (1-2 hrs) at the end of each class. Homework is optional, but highly recommended. Each assignment focuses on preparing you for a stage in the job search process. Additionally, we'll have activities based on the homework in each class.
 
 ### Career & Job Search Advising
 
