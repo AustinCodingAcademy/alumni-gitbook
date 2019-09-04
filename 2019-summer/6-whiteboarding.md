@@ -120,7 +120,7 @@ React resources:
 .NET resources:
 * [17 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
 
-## Homework (optional, but highly recommended!)
+## Homework
 
 * **Part 1:** Research onsite interview formats for the companies you're interested in. The [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/company-interview-formats) is a good place to start - it covers onsite interview formats for some of the most popular companies (Google, Facebook, Dropbox, etc). For smaller companies, look on job search forums and blogs - you may be able to find some clues about what to expect during the onsite interview process.
 
