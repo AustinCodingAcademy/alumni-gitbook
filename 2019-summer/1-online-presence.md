@@ -175,6 +175,5 @@ Personal website resources:
   * In the "GitHub Pages" section, you should now see a public URL for your resume repository. Example: `https://<your-username>.github.io/resume/`
   * To access your resume file, visit `https://<your-username>.github.io/resume/<resume-file-name.pdf>`
   * Real-life example: https://danawen.github.io/resume/Dana-Wen-Resume-Austin-Coding-Academy.pdf
-* To turn in this assignment, paste the Github Pages link to your resume in Campus Manager.
 
 {% include "/includes/footer.md" %}
