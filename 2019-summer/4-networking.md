@@ -144,7 +144,7 @@ Articles:
 * Where do you go to find out about tech-related events in Austin?
 * Are there any Meetup groups or community organizations that have been helpful to your job search?
 
-## Homework (optional)
+## Homework
 
 * Research networking events. See the resource list above for ideas!
 * **Create a list of 5 Meetups or regularly-occurring networking events that you're interested in attending.**
