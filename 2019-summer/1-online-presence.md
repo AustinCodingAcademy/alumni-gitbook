@@ -22,7 +22,7 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 ✅ Contact info - email, location, phone number (optional)<br/>
 ✅ Headshot<br/>
-✅ [Gravatar](https://en.gravatar.com/) - profile photo that follows you from site to site appearing beside your name when you do things like comment or post on a blog<br/>
+✅ [Gravatar](https://en.gravatar.com/) - automatic profile photo<br/>
 ✅ Byline - a brief statement that describes your career objectives<br/>
 ✅ LinkedIn profile<br/>
 ✅ Github account<br/>
@@ -144,9 +144,6 @@ Personal website resources:
   * https://github.com/kevincolten
   * https://linkedin.com/in/kevincolten
   * https://en.gravatar.com/kevincolten
-
-* [Gravatar](https://en.gravatar.com/): An avatar image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.
-* Any tips & tricks you'd like to share?
 
 ## Class discussion
 
