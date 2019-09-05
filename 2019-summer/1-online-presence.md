@@ -88,7 +88,6 @@ Example ACA grad resumes:
 * "Prettify" your LinkedIn profile url with your full name: https://www.linkedin.com/in/danawen
 * Headshot photos:
   * You don't need a professional photographer! My headshot photos were taken by a childhood friend and my dad.
-  * **Class portrait session!** If you need to update your headshot, I will take your photo before/after class on Thursday 7/18.
 
 ### Sample LinkedIn profiles
 
