@@ -20,17 +20,17 @@ Who sees your online profiles?
 
 Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as your guide. Your mission is to gather all the materials needed to complete your own ACA profile:
 
-✅ Contact info - email, location, phone number (optional)
-✅ Headshot
-✅ [Gravatar](https://en.gravatar.com/) - profile photo that follows you from site to site appearing beside your name when you do things like comment or post on a blog
-✅ Byline - a brief statement that describes your career objectives
-✅ LinkedIn profile
-✅ Github account
-✅ Work experience
-✅ Education
-✅ List of skills/technologies
-✅ Personal website (optional)
-✅ Portfolio project(s) - links to 1-3 hosted projects
+✅ Contact info - email, location, phone number (optional)<br/>
+✅ Headshot<br/>
+✅ [Gravatar](https://en.gravatar.com/) - profile photo that follows you from site to site appearing beside your name when you do things like comment or post on a blog<br/>
+✅ Byline - a brief statement that describes your career objectives<br/>
+✅ LinkedIn profile<br/>
+✅ Github account<br/>
+✅ Work experience<br/>
+✅ Education<br/>
+✅ List of skills/technologies<br/>
+✅ Portfolio project(s) - links to 1-3 hosted projects<br/>
+✅ Personal website (optional)<br/>
 
 **Important Reminder:** This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
 
