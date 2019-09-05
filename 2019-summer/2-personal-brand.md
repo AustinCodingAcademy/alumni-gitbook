@@ -26,6 +26,15 @@ Talking about yourself can often feel awkward or uncomfortable. Yet "pitching" y
 
 While it's important to prepare for coding questions and whiteboarding, the stories we tell about ourselves and our projects are an equally important part of the technical interview process.
 
+### STAR method
+
+The **STAR method** is a handy way to structure stories that are compelling and memorable:
+
+* S - Situation (set the scene)
+* T - Task (describe what was required, when, where, who was involved)
+* A - Action (what you did, skills used)
+* R - Result (what happened?)
+
 ### Career story
 
 On your own, jot down answers to the following questions:
