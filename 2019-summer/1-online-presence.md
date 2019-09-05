@@ -6,7 +6,7 @@
 
 ### Exposure
 
-Online presence is the easiest way to quickly plug into the local tech ecosystem.
+Online presence is the easiest way to quickly plug into the local tech ecosystem. Recruiters and hiring managers rely heavily on your online presence to learn more about you. Having your online materials complete and up-to-date is **essential**. When a job opportunity comes your way, you'll be able to immediately begin the hiring process by directing the recruiter to your online profiles.
 
 Who sees your online profiles?
 * Recruiters / headhunters
@@ -16,24 +16,21 @@ Who sees your online profiles?
 * Influencers in the tech community
 * Friends looking for jobs, introductions, connections
 
-### Job applications
-
-Recruiters and hiring managers rely heavily on your online presence to learn more about you. Having your online materials complete and up-to-date is **essential**. When a job opportunity comes your way, you'll be able to immediately begin the hiring process by directing the recruiter to your online profiles.
-
 ### Online presence checklist
 
 Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as your guide. Your mission is to gather all the materials needed to complete your own ACA profile:
 
-* Contact info - email, location, phone number (optional)
-* Headshot
-* Byline (a brief statement that describes your career objectives)
-* LinkedIn profile
-* Github account
-* Work experience
-* Education
-* Portfolio project(s) - links to 1-3 hosted projects
-* List of skills/technologies
-* Personal website (optional)
+✅ Contact info - email, location, phone number (optional)
+✅ Headshot
+✅ [Gravatar](https://en.gravatar.com/) - profile photo that follows you from site to site appearing beside your name when you do things like comment or post on a blog
+✅ Byline - a brief statement that describes your career objectives
+✅ LinkedIn profile
+✅ Github account
+✅ Work experience
+✅ Education
+✅ List of skills/technologies
+✅ Personal website (optional)
+✅ Portfolio project(s) - links to 1-3 hosted projects
 
 **Important Reminder:** This process is iterative! Don't get hung up on making everything perfect. Focus on creating a high quality **first version** of everything on the Online Presence Checklist. You can always update and revise your materials throughout the job search process!
 
@@ -41,7 +38,7 @@ Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as yo
 
 Goal of your resume: Spark a conversation! What sets you apart?
 
-### Resume sections
+__Resume sections:__
 
 * Name
 * Contact info
@@ -54,8 +51,6 @@ Goal of your resume: Spark a conversation! What sets you apart?
 * Personal / hobbies / activities (optional)
 
 Notice that much of this is similar to the info in your ACA graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
-
-### Resume template and examples
 
 * [Resume template](https://docs.google.com/document/d/1FxS7owJNMEZIpGpQ9QDICJxVcyg8v9qW5c_avr6FC6g/edit) for ACA grads
 
@@ -89,7 +84,7 @@ Example ACA grad resumes:
 * Headshot photos:
   * You don't need a professional photographer! My headshot photos were taken by a childhood friend and my dad.
 
-### Sample LinkedIn profiles
+__Sample LinkedIn profiles__
 
 * https://www.linkedin.com/in/lisa-umhey - ACA graduate
 * https://www.linkedin.com/in/daniel-cumming/
