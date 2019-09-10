@@ -145,6 +145,7 @@ Personal website resources:
   * https://linkedin.com/in/kevincolten
   * https://en.gravatar.com/kevincolten
 
+<!--
 ## Class discussion
 
 **Today's topic:** Your feelings about the job search process
@@ -153,6 +154,7 @@ Personal website resources:
 * What are you anxious about?
 * What topics do you want to know more about?
 * What do you want to get out of this class?
+-->
 
 ## Homework
 
