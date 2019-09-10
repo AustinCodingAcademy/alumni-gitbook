@@ -50,18 +50,18 @@ This **two-week** section focuses on everything you'll need to begin applying fo
 * [Class 3: Finding Jobs](2019-summer/3-job-search.md) - Tuesday, September 17
   * Where to find the jobs, and what to look and ask for. As a junior developer, what company and role will be the best fit for you?
   
-* [Class 4: Networking](2019-summer/4-networking.md) - Thursday, September 19
-  * ACA grads, welcome to the Austin tech community! Get ready to build your personal network and leverage connections to help you find those open roles. The job search process is a **lot** easier when we share resources and help each other out.
+* [Class 4: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, September 19
+  * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
 
 ### Part 2: The Interview Process
 
 This **two-week** section covers the interview cycle. We'll walk through each stage of the interview process and discuss what to expect at each step. We'll talk about technical interviews, especially coding questions and whiteboarding. There will be plenty of opportunities to build your skills and practice what you've learned!
 
-* [Class 5: Phone Interviews](2019-summer/5-phone-interview.md) - Tuesday, September 24
+* [Class 5: Networking](2019-summer/4-networking.md) - Tuesday, September 24 __(guest lecturer Edsel Rivera)__
+  * ACA grads, welcome to the Austin tech community! Get ready to build your personal network and leverage connections to help you find those open roles. The job search process is a **lot** easier when we share resources and help each other out.
+
+* [Class 6: Phone Interviews](2019-summer/5-phone-interview.md) - Thursday, September 26 __(guest lecturer Edsel Rivera)__
   * The interview process typically begins with one or more phone interviews. We'll discuss this important step to getting your foot in the door with a company.
-  
-* [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, September 26
-  * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
   
 * [Class 7: Job Offers & Graduation Prep](2019-summer/7-job-offer.md) - Tuesday, October 1
   * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers and salary negotiation.
