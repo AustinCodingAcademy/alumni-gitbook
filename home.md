@@ -83,8 +83,9 @@ This **two-week** section covers the interview cycle. We'll walk through each st
   * Job search milestones
   * Learnings
 
-* Class Discussion
-  * Deeper dive into an issue relevant to the day's topic
+* Mini-Interview Workshop
+  * 1-2 volunteers each class
+  * Practice answering interview questions in front of the group
   
 * Closing
   * Homework assignment
