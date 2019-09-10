@@ -156,10 +156,10 @@ Personal website resources:
 
 ## Homework
 
-* Complete a PDF version of your resume.
+* Complete a PDF version of your resume. Have this ready for the Resume Workshop in class on September 12.
 * Host your PDF resume on your Github account with GitHub Pages. If you're new to GitHub Pages, follow the steps below:
   * In your GitHub account, create a new repository called `resume`.
-  * On the new repository page, look in the blue "Quick setup" box. Click "uploading an existing file".
+  * On the new repository page, find the blue "Quick setup" box. Click "uploading an existing file".
   * Upload your resume PDF file.
   * On the home page of your repository, click Settings. Scroll down to the section "GitHub Pages".
   * In the "Source" dropdown, select the "Master branch" option. This will enable GitHub Pages for this repository.
