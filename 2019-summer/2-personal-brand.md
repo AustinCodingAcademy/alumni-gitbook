@@ -37,7 +37,7 @@ The **STAR method** is a handy way to structure stories that are compelling and 
 
 ### Career story
 
-On your own, jot down answers to the following questions:
+Craft the story of your own personal journey as a developer. Jot down answers to the following questions:
 * What inspired you to learn how to code?
 * Why do you want to work in tech?
 * Tell the story of your coding journey. How did you get to where you are now?
@@ -45,7 +45,7 @@ On your own, jot down answers to the following questions:
 
 ### Project stories
 
-Pick one of your favorite coding projects. Write down answers to the following questions:
+Pick one of your favorite coding projects. Tell the story of that project by writing down answers to the following questions:
 * What does this project do?
 * Did you work on this project alone or with a team? If you worked with a team, what did you contribute?
 * What’s your favorite feature of this project?
@@ -55,7 +55,7 @@ Pick one of your favorite coding projects. Write down answers to the following q
 * If you could add one feature OR make one improvement to this project, what would it be?
 * What's one fun fact or random/quirky aspect of this project?
 
-Before real-world interviews, you should have at least 2 project stories prepared.
+Before real-world interviews, go through this process and prepare a project story for at least 2 projects.
 
 ### Developer stories
 
