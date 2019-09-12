@@ -86,6 +86,7 @@ Complete a first draft of your profile for the [ACA graduate profile page](https
   * Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once your profile is hosted on the staging area, you'll be able to edit it as needed.
   * When your profile is ready to submit, email the file to dana@austincodingacademy.com and I'll add it to the staging area!
   * I'll have the staging area set up by next Tuesday and will provide instructions then on how you can edit your profile.
+  * After graduation, we'll move all the profiles from the staging area to the [public grad profile page](https://austincodingacademy.com/hire/).
   
 * Step 2 - Create a Gravatar (automatic profile photo):
   * On the [Gravatar home page](https://en.gravatar.com/), click the blue button "Create Your Own Gravatar".
