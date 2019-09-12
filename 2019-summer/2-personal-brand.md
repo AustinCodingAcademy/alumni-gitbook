@@ -39,10 +39,9 @@ The **STAR method** is a handy way to structure stories that are compelling and 
 
 On your own, jot down answers to the following questions:
 * What inspired you to learn how to code?
-* Tell me about your coding journey. How did you get to where you are now?
+* Why do you want to work in tech?
+* Tell the story of your coding journey. How did you get to where you are now?
 * What do you want to do in your career as a developer?
-
-In pairs, practice interviewing each other.
 
 ### Project stories
 
@@ -55,8 +54,6 @@ Pick one of your favorite coding projects. Write down answers to the following q
 * How did you respond to this challenging moment?
 * If you could add one feature OR make one improvement to this project, what would it be?
 * What's one fun fact or random/quirky aspect of this project?
-  
-In pairs, practice interviewing each other about your projects. Try to avoid referring to your notes as much as possible!
 
 Before real-world interviews, you should have at least 2 project stories prepared.
 
@@ -68,6 +65,7 @@ Tell me about a time you...
 * ...had a disagreement with a (coding) teammate. What happened? How did you resolve it?
 * ...took a leadership role on a coding team or group project. How did you move the project forward?
 
+<!--
 ## Class discussion
 
 **Today's topic:** Building confidence for the job search
@@ -75,6 +73,7 @@ Tell me about a time you...
 * What makes you feel confident?
 * How do you stay motivated, even when things become difficult?
 * As a class, what practices can we put into place to bolster confidence and motivation?
+-->
 
 ## Homework
 
