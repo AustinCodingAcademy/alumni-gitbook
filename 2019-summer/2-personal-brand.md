@@ -81,9 +81,9 @@ Tell me about a time you...
 Complete a first draft of your profile for the [ACA graduate profile page](https://austincodingacademy.com/hire/).
 
 * Step 1: Fill out the profile template:
-  * Create a new file `firstname-lastname.md`.
+  * On your local machine, create a new file `firstname-lastname.md`.
   * In the file, copy and paste this [profile template content](https://raw.githubusercontent.com/danawen/grad-class-sep-2019/master/profiles/template.md).
-  * Add your own content. Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once I've hosted your profile on the staging area, you'll be able to edit it as needed.
+  * Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once your profile is hosted on the staging area, you'll be able to edit it as needed.
   * When your profile is ready to submit, email the file to dana@austincodingacademy.com and I'll add it to the staging area!
   * I'll have the staging area set up by next Tuesday and will provide instructions then on how you can edit your profile.
   
