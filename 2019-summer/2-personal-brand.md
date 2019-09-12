@@ -80,14 +80,14 @@ Tell me about a time you...
 
 Complete a first draft of your profile for the [ACA graduate profile page](https://austincodingacademy.com/hire/).
 
-* Step 1: Fill out the profile template:
+* Step 1 - Fill out the profile template:
   * On your local machine, create a new file `firstname-lastname.md`.
   * In the file, copy and paste this [profile template content](https://raw.githubusercontent.com/danawen/grad-class-sep-2019/master/profiles/template.md).
   * Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once your profile is hosted on the staging area, you'll be able to edit it as needed.
   * When your profile is ready to submit, email the file to dana@austincodingacademy.com and I'll add it to the staging area!
   * I'll have the staging area set up by next Tuesday and will provide instructions then on how you can edit your profile.
   
-* Step 2: Create a Gravatar (automatic profile photo):
+* Step 2 - Create a Gravatar (automatic profile photo):
   * On the [Gravatar home page](https://en.gravatar.com/), click the blue button "Create Your Own Gravatar".
   * When signing up, use the same email address you included in your profile. (This is important!)
   * Upload a profile photo and you're all set! We'll use your email address to automatically find your Gravatar photo and set it as your profile headshot.
