@@ -90,6 +90,6 @@ Complete a first draft of your profile for the [ACA graduate profile page](https
 * Step 2: Create a Gravatar (automatic profile photo):
   * On the [Gravatar home page](https://en.gravatar.com/), click the blue button "Create Your Own Gravatar".
   * When signing up, use the same email address you included in your profile. (This is important!)
-  * Upload a profile photo and you're all set!
+  * Upload a profile photo and you're all set! We'll use your email address to automatically find your Gravatar photo and set it as your profile headshot.
 
 {% include "/includes/footer.md" %}
