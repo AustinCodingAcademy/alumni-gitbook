@@ -16,19 +16,58 @@ Food for thought:
   
 ## Job search: What to look for
 
-Types of roles: 
-* Jr Dev/Engineer
-* Project Manager
-* QA / Testing
-* Technical Sales Engineer
-* Product Manager
-* Web Designer
+When looking for open roles, cast a wide net. Don’t limit yourself to only “software engineer” roles.
 
-Where on the stack?
-* Front end (FE)
-* Back end
-* Database
-* Full-stack
+Here's a list of job titles for ACA grads:
+
+__Support__
+
+* Quality Assurance/Test Engineer (QA)
+* Technical Support Specialist
+* Help Desk Technician
+* Customer Success Specialist/Manager
+* Account Architect
+* Implementation Support Specialist
+* Implementation Engineer
+* Integration Architect
+
+__Developer__
+
+* Frontend Developer
+* Backend Developer
+* Full-Stack Developer
+* Software Engineer
+* Integration Engineer
+* Deployment Engineer
+* Mobile Developer
+* WordPress Developer
+* Software Development Engineer in Test (SDET)
+* IT Specialist
+* IT Technician (some government entities call all technology positions "IT")
+
+__Designer__
+
+* UX Designer
+* Product Manager
+* UI Specialist
+* Interaction Designer
+
+__Management/Leadership__
+
+* Project Manager
+* DevOps
+* Content Creation/Sales
+* Technical Writer
+* Digital Marketing Specialist
+* Sales Engineer
+* Content Strategist
+* SEO Specialist
+
+__Freelance__
+
+* Freelance Developer
+* Freelance Designer
+* Freelance WordPress Developer
         
 ## Job search: Where to look
 
