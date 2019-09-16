@@ -2,7 +2,7 @@
 
 # The Job Search
   
-## Job search: Getting started
+## Getting started
 
 Food for thought:
 [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/)
@@ -14,7 +14,7 @@ Food for thought:
 * Put your best foot forward
 * It’s a marathon, not a sprint
   
-## Job search: What to look for
+## What to look for
 
 When looking for open roles, cast a wide net. Don’t limit yourself to only “software engineer” roles.
 
@@ -69,7 +69,7 @@ __Freelance__
 * Freelance Designer
 * Freelance WordPress Developer
         
-## Job search: Where to look
+## Where to look
 
 Job boards:
 * [Hired - Austin](https://hired.com/jobs/austin)
@@ -140,7 +140,7 @@ Here is an example you can use as a template:
 > Thanks much for your time. I look forward to speaking with one of your hiring managers soon.
 > 
 > Best,<br/>
-> Dana Wen
+> Your Name Here
 
 ## Organizing your job search
 
