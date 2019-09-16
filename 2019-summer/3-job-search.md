@@ -112,7 +112,7 @@ As you begin reaching out to employers and applying to open roles, it's importan
 * [Asana](https://asana.com/) - Project-management software (personal tier is free)
 * Google Sheets or Microsoft Excel
 
-## Class discussion
+<!--## Class discussion
 
 **Today's Topic:** Job search resources & sharing
 
@@ -120,7 +120,7 @@ As you begin reaching out to employers and applying to open roles, it's importan
   * Share specific websites, job fairs, resources that have been helpful
 * Where are you in your job search?
 * What are some difficulties or obstacles that you're facing in your search?
-
+-->
 ## Homework
 <!--
   * Prepare for the class field trip to WeConnect's Austin Tech Networking Mixer:
