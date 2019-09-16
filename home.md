@@ -50,9 +50,6 @@ This **two-week** section focuses on everything you'll need to begin applying fo
 * [Class 3: Finding Jobs](2019-summer/3-job-search.md) - Tuesday, September 17
   * Where to find the jobs, and what to look and ask for. As a junior developer, what company and role will be the best fit for you?
   
-* Networking Field Trip: Big A** Social Happy Hour - Wednesday, September 18
-  * Optional, but highly recommended! We'll attend this FREE networking event as a group. It's a great opportunity to meet folks in the Austin tech community and practice making professional connections.
-  
 * [Class 4: Onsite Interviews](2019-summer/6-whiteboarding.md) - Thursday, September 19
   * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
 
