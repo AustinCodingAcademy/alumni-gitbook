@@ -16,7 +16,17 @@ Food for thought:
   
 ## What to look for
 
-When looking for open roles, cast a wide net. Don’t limit yourself to only “software engineer” roles.
+What's your ideal tech role? Here are some characteristics to consider:
+
+* Type of role
+* Industry
+* Product - what do you want to build?
+* Company (size, startup vs. established, etc.)
+* Team culture (size, development/release cycle, "pager duty", etc.)
+* Company culture (diversity, benefits, flexible schedule, etc.)
+* Anything else that is important to you
+
+When looking for open positions, cast a wide net. Don’t limit yourself to only “software engineer” roles.
 
 Here's a list of job titles for ACA grads:
 
