@@ -86,9 +86,13 @@ __Freelance__
 Job boards:
 * [Hired - Austin](https://hired.com/jobs/austin)
 * [Indeed - Austin](https://www.indeed.com/l-Austin,-TX-jobs.html)
+* [Dice - Austin](https://www.dice.com/jobs/l-Austin%2C+TX-jobs)
+* [ZipRecruiter - Austin](https://www.ziprecruiter.com/Jobs/-in-Austin,TX)
+* [Monster - Austin](https://www.monster.com/jobs/l-austin-tx)
 * [Stack Overflow - Austin job board](https://stackoverflow.com/jobs/developer-jobs-in-austin)
-* [Craigslist - Austin tech job board](https://austin.craigslist.org/d/software-qa-dba-etc/search/sof)
 * [LinkedIn - Austin job board](https://www.linkedin.com/jobs/austin-tx-jobs)
+* [Glassdoor - Austin job board](https://www.glassdoor.com/Job/austin-full-time-jobs-SRCH_IL.0,6_IC1139761_KO7,16.htm)
+* [Craigslist - Austin tech job board](https://austin.craigslist.org/d/software-qa-dba-etc/search/sof)
 * [Angel List - Austin](https://angel.co/austin/jobs) - tech & startup jobs
 * [Hacker News - "Who's Hiring?" posts](https://hnhiring.com/) - updated at the beginning of every month
 * [Built In Austin job postings](https://www.builtinaustin.com/jobs)
