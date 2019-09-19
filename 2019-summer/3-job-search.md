@@ -18,15 +18,19 @@ Food for thought:
 
 What's your ideal tech role? Here are some characteristics to consider:
 
-* Type of role
+* Type of role / job title
 * Industry
-* Product - what do you want to build?
-* Company (size, startup vs. established, etc.)
+* Company (size, startup vs. established, reputation/reviews, etc.)
 * Location
+* Product - what do you want to build?
+* Technologies (programming languages, tools, etc.)
+* Job requirements and pre-requisites
+* Position level (entry-level, senior, management, etc.)
 * Team culture (size, development/release cycle, "pager duty", etc.)
 * Company culture (diversity, benefits, flexible schedule, etc.)
+* Mentorship and growth opportunities
 * Compensation
-* Anything else that is important to you
+* Anything else that is important to you...
 
 When looking for open positions, cast a wide net. Don’t limit yourself to only “software engineer” roles.
 
