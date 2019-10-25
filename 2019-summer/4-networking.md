@@ -101,6 +101,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
 
 ## Networking events
 
+<!--
 Event calendars:
 * [Capital Factory](https://www.capitalfactory.com/events/)
 * [Built In Austin](https://www.builtinaustin.com/events)
@@ -123,6 +124,7 @@ Newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings, events, articles
 * [Austin Tech Events newsletter](https://techeventsnetwork.com/cities/austin/) - weekly list of local events
 * [Capital Factory newsletter](https://www.capitalfactory.com/) - scroll to the bottom of homepage for newsletter sign-up
+-->
 
 ## Networking resources
 

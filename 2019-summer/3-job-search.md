@@ -34,7 +34,7 @@ What's your ideal tech role? Here are some characteristics to consider:
 
 When looking for open positions, cast a wide net. Don’t limit yourself to only “software engineer” roles.
 
-Here's a list of job titles for ACA grads:
+Here's a list of job titles for coding grads:
 
 __Support__
 
@@ -88,30 +88,27 @@ __Freelance__
 ## Where to look
 
 Job boards:
-* [Hired - Austin](https://hired.com/jobs/austin)
-* [Indeed - Austin](https://www.indeed.com/l-Austin,-TX-jobs.html)
-* [Dice - Austin](https://www.dice.com/jobs/l-Austin%2C+TX-jobs)
-* [ZipRecruiter - Austin](https://www.ziprecruiter.com/Jobs/-in-Austin,TX)
-* [Monster - Austin](https://www.monster.com/jobs/l-austin-tx)
-* [Stack Overflow - Austin job board](https://stackoverflow.com/jobs/developer-jobs-in-austin)
-* [LinkedIn - Austin job board](https://www.linkedin.com/jobs/austin-tx-jobs)
-* [Glassdoor - Austin job board](https://www.glassdoor.com/Job/austin-full-time-jobs-SRCH_IL.0,6_IC1139761_KO7,16.htm)
-* [Craigslist - Austin tech job board](https://austin.craigslist.org/d/software-qa-dba-etc/search/sof)
-* [Angel List - Austin](https://angel.co/austin/jobs) - tech & startup jobs
+* [Hired](https://hired.com/)
+* [Indeed](https://www.indeed.com)
+* [Dice](https://www.dice.com)
+* [ZipRecruiter](https://www.ziprecruiter.com)
+* [Monster](https://www.monster.com)
+* [Stack Overflow - Job Board](https://stackoverflow.com/jobs)
+* [LinkedIn - Job Search](https://www.linkedin.com/jobs/)
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [Craigslist - tech job board](https://lubbock.craigslist.org/search/sof?)
+* [Angel List](https://angel.co/jobs/) - tech & startup jobs
 * [Hacker News - "Who's Hiring?" posts](https://hnhiring.com/) - updated at the beginning of every month
-* [Built In Austin job postings](https://www.builtinaustin.com/jobs)
-* [Austin Digital Jobs (Facebook group)](https://www.facebook.com/groups/austindigitaljobs/)
-* [Capital Factory Jobs (Facebook group)](https://www.facebook.com/groups/capitalfactoryjobs/)
-* [We Work Remotely](https://weworkremotely.com/) - remote jobs
+* [We Work Remotely](https://weworkremotely.com/#job-listings) - remote jobs and gigs
 
 Lists of local companies:
-* [Austin Tech Alliance member companies](https://www.austintech.org/members)
-* [Built In Austin company list](https://www.builtinaustin.com/companies)
-* [Capital Factory company list](https://www.capitalfactory.com/portfolio/)
-* [Dana's list](https://docs.google.com/document/d/1VgM9reklHh0PT6L6f7u8XJclV9Sg8sesnq3cu1DYxBo/edit?usp=sharing) - my own personal list, pulled from listings in various Austin tech newsletters
+* [Lubbock Economic Development Alliance Jobs](https://lubbockeda.org/jobs/)
+* [Lubbock's largest employers](https://www.citytowninfo.com/places/texas/lubbock/work) - Top 10 Public and Private employers
 
+<!--
 Email newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings (+ events and articles)
+-->
 
 ## What's up with recruiters?
 
@@ -132,10 +129,12 @@ Tips when dealing with recruiters:
 * Even though they will ask quickly and often, DO NOT give a salary expectation, or your current/past salary, etc.
   * You can say that you'll consider any offer with the right company after interviewing
     * If they are insistent, I usually say "I will consider any offer over $1" or shoot really high until they get the message
-  * If you have a hard lower limit, you can say "Only reach out if salary is more than 75k", but don't be afraid to shoot high.
+  * If you have a hard lower limit, you can say "Only reach out if salary is more than 65k", but don't be afraid to shoot high.
 * Don't worry about finding them. They will find you from LinkedIn, your website, etc.
 * Popular recruiting companies are Kforce, New Iron, etc.
+<!--
   * [List of local recruiting/staffing agencies](https://www.builtinaustin.com/2018/10/24/23-austin-recruiting-firms-and-staffing-agencies-finding-right-fit)
+-->
 * Frustratingly, recruiters will sometimes list a job for a company on job sites, typically saying something like "Our client blah blah blah". Don't be confused.
 * External recruiters will sometimes refuse to tell you who their client is. This is to protect their commission and are usually forthcoming after talking to you a bit and what you are looking for.
 * It is considered rude to find out who an external recruiter's client is and apply on your own. It's also counter-productive since they probably could get you in sooner.
@@ -189,7 +188,7 @@ As you begin reaching out to employers and applying to open roles, it's importan
     * Prepare business cards or download the LinkedIn app to your phone
 -->
 
-  * Research companies in Austin that hire folks in your desired role(s).
+  * Research companies that hire folks in your desired role(s).
   * **Create a list of 5 companies you'd like to apply to.**
     * Focus on companies with openings for your desired role(s) (or similar roles).
   * **For each company,** gather the following info:

@@ -80,7 +80,7 @@ Use this handy problem-solving flowchart from [Cracking the Coding Interview](ht
 
 ### Whiteboarding practice problems
 
-* [ACA whiteboard challenge questions](https://github.com/ACA-Alumni/ACA-Job-Tracker/tree/master/resources/whiteboard-challenges) - from the 2018 version of this class (click on any of the `.md` files to view the question)
+* [Whiteboard challenge questions](https://github.com/ACA-Alumni/ACA-Job-Tracker/tree/master/resources/whiteboard-challenges) - from the 2018 version of this class (click on any of the `.md` files to view the question)
 
 ## Interviewing resources
 
@@ -117,6 +117,11 @@ React resources:
 * [Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 * [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
+Angular resource:
+* [Top Angular Questions to prepare for](https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/)
+* [Angular 6 Interview Questions ](https://www.educba.com/angular-6-interview-questions/)
+* [12 Essential Angular Interview Questions](https://www.toptal.com/angular-js/interview-questions)
+
 .NET resources:
 * [17 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
 
@@ -124,7 +129,7 @@ React resources:
 
 * **Part 1:** Research onsite interview formats for the companies you're interested in. The [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/company-interview-formats) is a good place to start - it covers onsite interview formats for some of the most popular companies (Google, Facebook, Dropbox, etc). For smaller companies, look on job search forums and blogs - you may be able to find some clues about what to expect during the onsite interview process.
 
-* **Part 2:** Get yourself a copy of [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/), the gold standard for technical interview prep. [Austin Public Library](https://austin.bibliocommons.com/item/show/1106616067) has 8 copies available. If you would like to purchase a copy, BookPeople in downtown Austin usually has a few copies in stock, or they will happily order it for you if it's sold out.
+* **Part 2:** Get yourself a copy of [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/), the gold standard for technical interview prep. It should be available in the library. If you would like to purchase a copy, 
   * Once you have your copy, read Section VII (Technical Questions). It's a great summary of what to expect in technical interviews and how to prepare.
   
 * **Part 3:** Develop a plan of action and start practicing! Plan to practice coding questions on a frequent, regular basis. Set aside time every day to practice your technical interview skills. Using the resources above, gather a list of questions to use as practice material and schedule out time to tackle each question.

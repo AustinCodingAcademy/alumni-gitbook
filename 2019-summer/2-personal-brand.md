@@ -77,7 +77,7 @@ Tell me about a time you...
 
 ## Homework
 
-Complete a first draft of your profile for the [ACA graduate profile page](https://austincodingacademy.com/hire/).
+Complete a first draft of your profile for the [Circle Coding Academy graduate profile page](https://austincodingacademy.com/hire/).
 
 * Step 1 - Fill out the profile template:
   * On your local machine, create a new file `firstname-lastname.md`.

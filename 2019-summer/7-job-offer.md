@@ -50,8 +50,8 @@ Online salary resources:
 
 Leverage your connections! Here's who you can ask about salary values and ranges:
 
-* Other ACA grads
-* ACA staff and instructors
+* Other Circle Coding Academy grads
+* Circle staff and instructors
 * Your college alumni network (they may be able to connect you with alumni at a specific company)
 * LinkedIn (find friends of friends at a specific company)
 * Contacts in the local tech community

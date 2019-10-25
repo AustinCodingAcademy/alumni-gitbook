@@ -1,6 +1,8 @@
 # Summary
 
-<!--* [Job Ready Checklist](2019-summer/job-ready-checklist.md)-->
+<!--* 
+[Job Ready Checklist](2019-summer/job-ready-checklist.md)
+-->
 * Part 1: Landing the Interview
   * [Class 1: Online Presence](2019-summer/1-online-presence.md)
   * [Class 2: Your Personal Brand](2019-summer/2-personal-brand.md)
