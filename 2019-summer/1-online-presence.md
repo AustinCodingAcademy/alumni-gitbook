@@ -8,6 +8,14 @@
 
 Online presence is the easiest way to quickly plug into the local tech ecosystem. Recruiters and hiring managers rely heavily on your online presence to learn more about you. Having your online materials complete and up-to-date is **essential**. When a job opportunity comes your way, you'll be able to immediately begin the hiring process by directing the recruiter to your online profiles.
 
+Online profiles to pay attention to:
+* LinkedIn
+* GitHub
+* Facebook/Instagram (they will look, check your privacy settings and content!)
+* Circle Coding Academy graduate profile
+* Medium blog
+* Hacker Rank
+
 Who sees your online profiles?
 * Recruiters / headhunters
 * Other HR folks
@@ -41,18 +49,18 @@ Goal of your resume: Spark a conversation! What sets you apart?
 __Resume sections:__
 
 * Name
-* Contact info
-* Objective - role you’re seeking
-* Work experience
+* Contact info (professional email, cell number, GitHub account link, LinkedIn URL)
+* Objective - role you’re seeking (optional, and should reflect the role you're applying for)
+* Work experience (Emphasize relevant experience, de-emphasize unrelated experience)
 * Education
 * Projects
 * Skills - a list of programming languages and technologies you know
 * Volunteer experience (optional)
 * Personal / hobbies / activities (optional)
 
-Notice that much of this is similar to the info in your ACA graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
+Notice that much of this is similar to the info in your graduate profile page. Complete your resume, and you'll be able to reuse much of the material for your profile page.
 
-* [Resume template](https://docs.google.com/document/d/1FxS7owJNMEZIpGpQ9QDICJxVcyg8v9qW5c_avr6FC6g/edit) for ACA grads
+* [Resume template](https://docs.google.com/document/d/1FxS7owJNMEZIpGpQ9QDICJxVcyg8v9qW5c_avr6FC6g/edit) for grads
 
 Example ACA grad resumes:
 
@@ -61,16 +69,16 @@ Example ACA grad resumes:
 
 ### Resume tips & tricks
 
-* PDF format
+* PDF format (your formatting will remain intact, Word docs can sometimes render differently)
 * 1 page ideal, 2 pages max
 * Tailor your resume to the role you're applying for
 * Skills section:
-  * List skills in order of most comfortable to least.
+  * List skills in order of most comfortable to least
   * If you list a language or technology, you **must** be able to respond briefly to the question, "Tell me a little about something you did with X..."
 * Projects section:
   * What does the code you wrote do?
   * Why did you do it?
-  * Include any quantifiable measurements you can.
+  * Include any quantifiable measurements you can
 * Hobbies/Activities section:
   * If you include Hobbies/Activities, keep it short!
   * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
@@ -82,20 +90,20 @@ Example ACA grad resumes:
 
 * "Prettify" your LinkedIn profile url with your full name: https://www.linkedin.com/in/danawen
 * Headshot photos:
-  * You don't need a professional photographer! My headshot photos were taken by my dad.
+  * You don't need a professional photographer! Dana's headshot photos were taken by her dad.
 
 __Sample LinkedIn profiles__
 
 * https://www.linkedin.com/in/lisa-umhey - ACA graduate
-* https://www.linkedin.com/in/daniel-cumming/
-* https://www.linkedin.com/in/kevincolten
+* https://www.linkedin.com/in/daniel-cumming/ - Circle Coding Academy Director of Placement and Partnerships
+* https://www.linkedin.com/in/kevincolten - Circle Coding Academy CTO
 * [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
 
 ## Project portfolio
 
 As an entry-level developer, your portfolio is the main place potential employers will go to get a sense of what you can do.
 
-Select **1-3 current or recent coding projects** to highlight in your portfolio. These will appear on your ACA graduate profile page. You can also include them on your LinkedIn page and personal website.
+Select **1-3 current or recent coding projects** to highlight in your portfolio. These will appear on your graduate profile page. You can also include them on your LinkedIn page and personal website.
 
 ### Project checklist
 
@@ -159,10 +167,10 @@ Personal website resources:
 ## Homework
 
 * Complete a PDF version of your resume. Have this ready for the Resume Workshop in class on September 12.
-* Host your PDF resume on your Github account with GitHub Pages. If you're new to GitHub Pages, follow the steps below:
+* Host your PDF resume on your Github account with [GitHub Pages] (https://pages.github.com/). If you're new to GitHub Pages, follow the steps below:
   * In your GitHub account, create a new repository called `resume`.
   * On the new repository page, find the blue "Quick setup" box. Click "uploading an existing file".
-  * Upload your resume PDF file.
+  * Upload your resume PDF file. Best practice is to make sure it is named FirstName-LastName-Resume.pdf.
   * On the home page of your repository, click Settings. Scroll down to the section "GitHub Pages".
   * In the "Source" dropdown, select the "Master branch" option. This will enable GitHub Pages for this repository.
   * In the "GitHub Pages" section, you should now see a public URL for your resume repository. Example: `https://<your-username>.github.io/resume/`
