@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Building Your Online Presence
 
@@ -26,7 +26,7 @@ Who sees your online profiles?
 
 ### Online presence checklist
 
-Use the [ACA graduate profile page](https://austincodingacademy.com/hire/) as your guide. Your mission is to gather all the materials needed to complete your own ACA profile:
+Use the [graduate profile page](https://austincodingacademy.com/hire/) (different school, same idea) as your guide. Your mission is to gather all the materials needed to complete your own profile for your Circle Coding Academy graduate profile:
 
 ✅ Contact info - email, location, phone number (optional)<br/>
 ✅ Headshot<br/>
@@ -62,7 +62,7 @@ Notice that much of this is similar to the info in your graduate profile page. C
 
 * [Resume template](https://docs.google.com/document/d/1FxS7owJNMEZIpGpQ9QDICJxVcyg8v9qW5c_avr6FC6g/edit) for grads
 
-Example ACA grad resumes:
+Example Circle grad resumes:
 
 * [Sample resume - Brandon Turner](https://brandontheturner.github.io/BrandonTurner.pdf)
 * [Sample resume - Lisa Umhey](Resume_LisaUmhey.pdf)
@@ -94,10 +94,10 @@ Example ACA grad resumes:
 
 __Sample LinkedIn profiles__
 
-* https://www.linkedin.com/in/lisa-umhey - ACA graduate
+* https://www.linkedin.com/in/lisa-umhey - CCA graduate
 * https://www.linkedin.com/in/daniel-cumming/ - Circle Coding Academy Director of Placement and Partnerships
 * https://www.linkedin.com/in/kevincolten - Circle Coding Academy CTO
-* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
+* [Graduate profile page](https://austincodingacademy.com/hire/) - click on the "in" icons to view LinkedIn profiles
 
 ## Project portfolio
 
@@ -126,7 +126,7 @@ Your Github profile is also a good place to showcase any contributions to open s
 
 * https://github.com/kevincolten
 * https://github.com/danawen
-* [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles
+<!-- * [ACA graduate profile page](https://austincodingacademy.com/hire/) - click on the Octocat icons to view Github profiles -->
 
 ## Personal website
 
@@ -177,4 +177,4 @@ Personal website resources:
   * To access your resume file, visit `https://<your-username>.github.io/resume/<resume-file-name.pdf>`
   * Real-life example: https://danawen.github.io/resume/Dana-Wen-Resume-Austin-Coding-Academy.pdf
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

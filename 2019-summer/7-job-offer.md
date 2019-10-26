@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Post-Interview: Job Offers & Negotiation
     
@@ -131,4 +131,4 @@ For each win on your list, practice using the STAR method to craft a compelling 
 * A - Action (what you did, skills used)
 * R - Result (what happened?)
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

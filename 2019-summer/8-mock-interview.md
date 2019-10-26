@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Mock Interview Day
 
@@ -40,4 +40,4 @@ Interviewers might:
 
 **Thank you!**
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

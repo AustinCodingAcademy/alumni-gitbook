@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Building Your Network
 
@@ -158,4 +158,4 @@ Articles:
     * Examples: Speak to a representative from 3 companies you're interested in, talk to at least 1 person about your favorite coding project, etc.
 * This homework assignment is optional, but highly recommended!
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

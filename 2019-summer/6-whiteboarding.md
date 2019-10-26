@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Onsite Interviews & Whiteboarding
 
@@ -112,10 +112,10 @@ JavaScript resources:
 * [CodeMentor Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
 * [Front End Interview Handbook: JS Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
 
-React resources:
+<!-- React resources:
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-* [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+* [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/) -->
 
 Angular resource:
 * [Top Angular Questions to prepare for](https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/)
@@ -134,4 +134,4 @@ Angular resource:
   
 * **Part 3:** Develop a plan of action and start practicing! Plan to practice coding questions on a frequent, regular basis. Set aside time every day to practice your technical interview skills. Using the resources above, gather a list of questions to use as practice material and schedule out time to tackle each question.
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

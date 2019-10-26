@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # Developing Your Personal Brand
 
@@ -77,7 +77,7 @@ Tell me about a time you...
 
 ## Homework
 
-Complete a first draft of your profile for the [Circle Coding Academy graduate profile page](https://austincodingacademy.com/hire/).
+Complete a first draft of your profile for the [graduate profile page](https://austincodingacademy.com/hire/).
 
 * Step 1 - Fill out the profile template:
   * On your local machine, create a new file `firstname-lastname.md`.
@@ -92,4 +92,4 @@ Complete a first draft of your profile for the [Circle Coding Academy graduate p
   * When signing up, use the same email address you included in your profile. (This is important!)
   * Upload a profile photo and you're all set! We'll use your email address to automatically find your Gravatar photo and set it as your profile headshot.
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

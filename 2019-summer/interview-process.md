@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # The Interview Process
 
@@ -110,4 +110,4 @@ If you have two or more offers, treat them like buying a used car:
 4. You don't have to explicitly say what the other offers are. So don't unless that's what you want from the company you want to work at.
    1. You will not get a higher offer than what you suggest, unless you can convice them (whether true or not) that you actually received a higher offer somewhere else.
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->

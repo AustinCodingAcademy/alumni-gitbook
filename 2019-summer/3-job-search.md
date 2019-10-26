@@ -1,4 +1,4 @@
-{% include "/includes/header.md" %}
+<!-- {% include "/includes/header.md" %} -->
 
 # The Job Search
   
@@ -196,4 +196,4 @@ As you begin reaching out to employers and applying to open roles, it's importan
     * Contact info for that person (email, phone number, LinkedIn profile, etc.)
     * Your plan of action! **When** and **how** will you start a conversation with that person to learn more? (1-3 sentences)
 
-{% include "/includes/footer.md" %}
+<!-- {% include "/includes/footer.md" %} -->
