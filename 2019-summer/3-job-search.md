@@ -153,7 +153,7 @@ Here is an example you can use as a template:
 > 
 > I'm interested in the open position for a Front End Developer at Cool Software Enterprises. I've submitted my application through your online portal, and I'm eager to learn more about the role. Would it be possible to schedule a brief phone conversation with one of your hiring managers?
 > 
-> A little about me: I'm a Full-Stack Web Developer and recent graduate of Austin Coding Academy. My technology stack includes JavaScript, React, and HTML/CSS, but I've also worked with Node.js.
+> A little about me: I'm a Full-Stack Web Developer and recent graduate of Lubbock Coding Academy. My technology stack includes JavaScript, React, and HTML/CSS, but I've also worked with Node.js.
 > For details about my portfolio and work experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/danawen).
 > 
 > Thanks much for your time. I look forward to speaking with one of your hiring managers soon.
