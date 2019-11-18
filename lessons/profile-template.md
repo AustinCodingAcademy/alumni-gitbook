@@ -1,7 +1,7 @@
 ```md
 ---
-layout: resume #don't touch
-categories: [ hire, graduation, austin ] # don't touch
+layout: resume # don't touch
+categories: [ hire, graduation, lubbockcodingacademy ] # don't touch
 
 fullname:
 jobtitle:
@@ -9,14 +9,14 @@ jobtitle:
 location: Austin, TX
 blurb: ""
 
-# first item must be JavaScript or C# or .NET or C#/.NET
+# first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
   - JavaScript
-  - Node.js
-  - React
-  - Redux
-  - Express.js
+  - C#
+  - .NET
+  - SQL
+  - Angular.js
   - HTML
   - CSS
   - Testing
@@ -28,8 +28,10 @@ skills:
 github: https://github.com/your-username
 linkedin: https://www.linkedin.com/in/your-username
 
-email:
-phone:
+email: # email for professional use
+phone: # cell number
+
+# Make sure to edit these to be accurate for your work! The more relevant the better if the role was technical, don't feel like you need to put every job you've had.
 
 workexperience:
   - company:
@@ -47,14 +49,15 @@ workexperience:
     title: Delivery Driver
     location: Austin, TX
 
+
 education:
-  - name: Austin Coding Acaademy
-    dates: June 2018 - April 2019
+  - name: Lubbock Coding Acaademy
+    dates: Feb 2019 - Dec 2019
     degree: Web Development
 
 projects:
-  - name: Smart Shop
-    desc: grocery shopping list assistant
+  - name: # title of your project
+    desc: # very short description of your project
     url: # link to your deployed project
 
 ---
