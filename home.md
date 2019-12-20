@@ -49,20 +49,20 @@ This **two-week** section focuses on everything you'll need to begin applying fo
   
 * [Class 3: Finding Jobs](2019-summer/3-job-search.md) - 
   * Where to find the jobs, and what to look and ask for. As a junior developer, what company and role will be the best fit for you?
-  
-* [Class 4: Onsite Interviews](2019-summer/6-whiteboarding.md) -
-  * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
+
+* [Class 4: Networking](2019-summer/4-networking.md) -  
+  * Grads, welcome to the tech community! Get ready to build your personal network and leverage connections to help you find those open roles. The job search process is a **lot** easier when we share resources and help each other out.
 
 ### Part 2: The Interview Process
 
 This **two-week** section covers the interview cycle. We'll walk through each stage of the interview process and discuss what to expect at each step. We'll talk about technical interviews, especially coding questions and whiteboarding. There will be plenty of opportunities to build your skills and practice what you've learned!
 
-* [Class 5: Networking](2019-summer/4-networking.md) -  
-  * Grads, welcome to the tech community! Get ready to build your personal network and leverage connections to help you find those open roles. The job search process is a **lot** easier when we share resources and help each other out.
-
-* [Class 6: Phone Interviews](2019-summer/5-phone-interview.md) -
+* [Class 5: Phone Interviews](2019-summer/5-phone-interview.md) -
   * The interview process typically begins with one or more phone interviews. We'll discuss this important step to getting your foot in the door with a company.
-  
+
+* [Class 6: Onsite Interviews](2019-summer/6-whiteboarding.md) -
+  * What can you expect during an interview day at a potential employer's office? We'll talk about dress code, who you might meet, and types of questions to expect. We'll also break down the coding interview and discuss strategies for whiteboarding.
+
 * [Class 7: Job Offers & Graduation Prep](2019-summer/7-job-offer.md) -
   * You've completed all your interviews - now what? We'll discuss everything that happens afterwards, including job offers and salary negotiation.
   * We'll also spend some time preparing for the Graduation/Demo Day. We'll go over tips for getting your projects hosted on Heroku and have open rehearsal time for project demos.
@@ -96,7 +96,7 @@ This **two-week** section covers the interview cycle. We'll walk through each st
 ### Attendance
 
 * You are allowed 2 excused absences for this class. If you need to miss class, please let your instructor and Campus Director know ahead of time.
-* Absences related to your job search are encouraged and **do not** count towards your 2 excused absences!
+* Absences related to your job search **do not** count towards your 2 excused absences!
   * Examples: Taking an interview or phone screen, meeting with a potential employer, attending a tech networking event, etc.
   * As with any absence, please let us know beforehand if you're going to miss class - even if it's for a job search related activity.
 
