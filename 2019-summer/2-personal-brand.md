@@ -81,7 +81,7 @@ Complete a first draft of your profile for the graduate profile page. Here's wha
 
 * Step 1 - Fill out the profile template:
   * On your local machine, create a new file `firstname-lastname.md`.
-  * In the file, copy and paste this [profile template content](https://raw.githubusercontent.com/danawen/grad-class-sep-2019/master/profiles/template.md).
+  * In the file, copy and paste this [profile template content](https://alumni.austincodingacademy.com/_book/lessons/profile-template.html).
   * Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once your profile is hosted on the staging area, you'll be able to edit it as needed.
   * When your profile is ready to submit, email the file to your instructor and we'll add it to the staging area!
   * We'll have the staging area set up by next week and will provide instructions then on how you can edit your profile.
