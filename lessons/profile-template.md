@@ -1,7 +1,7 @@
 ```md
 ---
 layout: resume # don't touch
-categories: [ hire, graduation, lubbockcodingacademy ] # don't touch
+categories: [ hire, graduation, austincodingacademy ] # don't touch
 
 fullname:
 jobtitle:
@@ -51,7 +51,7 @@ workexperience:
 
 
 education:
-  - name: Lubbock Coding Acaademy
+  - name: Austin Coding Acaademy
     dates: Feb 2019 - Dec 2019
     degree: Web Development
 
