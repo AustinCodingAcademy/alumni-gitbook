@@ -81,16 +81,21 @@ Example Circle grad resumes:
   * Include any quantifiable measurements you can
 * Hobbies/Activities section:
   * If you include Hobbies/Activities, keep it short!
-  * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a beter sense of the candidate as a whole person.
+  * As an inteviewer, I'm a fan of this section. It helps me get the conversation started, calm any nerves, and get a better sense of the candidate as a whole person.
   * [CV Compiler](https://cvcompiler.com/) - online tool that automatically tests/scans your resume and suggests improvements
 
 ## LinkedIn
 
 ### LinkedIn tips & tricks
 
-* "Prettify" your LinkedIn profile url with your full name: https://www.linkedin.com/in/danawen
+* Personalize your LinkedIn profile URL with your full name: https://www.linkedin.com/in/danawen
+  * After logging in to your LinkedIn account, click on the "Me" icon on the top menu bar
+  * Click "View Profile"
+  * Click the pencil icon under your banner image
+  * In the "Contact Info" section, click the pencil icon
+  * Update the "Profile URL" section to create your own personalized LinkedIn URL
 * Headshot photos:
-  * You don't need a professional photographer! Dana's headshot photos were taken by her dad.
+  * You don't need a professional photographer! Recruit a classmate or friend to help you update your LinkedIn profile photo.
 
 __Sample LinkedIn profiles__
 
