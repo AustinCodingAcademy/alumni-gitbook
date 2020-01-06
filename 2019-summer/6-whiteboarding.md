@@ -112,12 +112,12 @@ JavaScript resources:
 * [CodeMentor Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
 * [Front End Interview Handbook: JS Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
 
-<!-- React resources:
+React resources:
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-* [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/) -->
+* [Top 50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
-Angular resource:
+Angular resources:
 * [Top Angular Questions to prepare for](https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/)
 * [Angular 6 Interview Questions ](https://www.educba.com/angular-6-interview-questions/)
 * [12 Essential Angular Interview Questions](https://www.toptal.com/angular-js/interview-questions)
