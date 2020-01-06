@@ -96,15 +96,16 @@ Job boards:
 * [Stack Overflow - Job Board](https://stackoverflow.com/jobs)
 * [LinkedIn - Job Search](https://www.linkedin.com/jobs/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
-* [Craigslist - tech job board](https://lubbock.craigslist.org/search/sof?)
+* [Craigslist tech jobs](craigslist.org) - look at the "software/qa/dba" section under "jobs"
 * [Angel List](https://angel.co/jobs/) - tech & startup jobs
 * [Hacker News - "Who's Hiring?" posts](https://hnhiring.com/) - updated at the beginning of every month
 * [We Work Remotely](https://weworkremotely.com/#job-listings) - remote jobs and gigs
 
+<!--
 Lists of local companies:
 * [Lubbock Economic Development Alliance Jobs](https://lubbockeda.org/jobs/)
 * [Lubbock's largest employers](https://www.citytowninfo.com/places/texas/lubbock/work) - Top 10 Public and Private employers
-
+-->
 <!--
 Email newsletters:
 * [Austin Startup Digest](https://www.startupdigest.com/digests/austin) - weekly job listings (+ events and articles)
