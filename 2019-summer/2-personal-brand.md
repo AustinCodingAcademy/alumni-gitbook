@@ -77,15 +77,15 @@ Tell me about a time you...
 
 ## Homework
 
-Complete a first draft of your profile for the [graduate profile page](https://lubbockcodingacademy.com/hire/). Here's what the filled out grad profiles will look like: [Example page](https://austincodingacademy.com/hire/)
+Complete a first draft of your profile for the graduate profile page. Here's what the filled out grad profiles will look like: [Example page](https://austincodingacademy.com/hire/)
 
 * Step 1 - Fill out the profile template:
   * On your local machine, create a new file `firstname-lastname.md`.
   * In the file, copy and paste this [profile template content](https://raw.githubusercontent.com/danawen/grad-class-sep-2019/master/profiles/template.md).
   * Fill out the template as much as you can. **Don't worry if you can't complete all the fields yet!** Once your profile is hosted on the staging area, you'll be able to edit it as needed.
-  * When your profile is ready to submit, email the file to ctroutman@lubbockcodingacademy.com and we'll add it to the staging area!
+  * When your profile is ready to submit, email the file to your instructor and we'll add it to the staging area!
   * We'll have the staging area set up by next week and will provide instructions then on how you can edit your profile.
-  * After graduation, we'll move all the profiles from the staging area to the [public grad profile page](https://lubbockcodingacademy.com/hire/).
+  * After graduation, we'll move all the profiles from the staging area to the public grad profile page.
   
 * Step 2 - Create a Gravatar (automatic profile photo):
   * On the [Gravatar home page](https://en.gravatar.com/), click the blue button "Create Your Own Gravatar".
