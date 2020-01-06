@@ -133,7 +133,7 @@ Articles:
 * [Top Tips to Build Networking Relationships](https://www.newtechnorthwest.com/how-to-network-the-top-24-tips-to-build-networking-relationships/)
 * [Networking Event Tips for Introverts](https://www.createcultivate.com/blog/2019/2/14/5-networking-event-tips-for-introverts)
 * [How to Make Connections That Count — Advice From a Silicon Valley Veteran (and Introvert)](https://firstround.com/review/how-to-make-connections-that-count-advice-from-a-silicon-valley-veteran-and-introvert/)
-
+<!--
 ## Class discussion
 
 **Today's Topic:** Networking resources & sharing
@@ -145,7 +145,7 @@ Articles:
   * If this event was held again, would you return?
 * Where do you go to find out about tech-related events in Austin?
 * Are there any Meetup groups or community organizations that have been helpful to your job search?
-
+-->
 ## Homework
 
 * Research networking events. See the resource list above for ideas!
