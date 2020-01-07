@@ -3,6 +3,7 @@
 <!--* 
 [Job Ready Checklist](2019-summer/job-ready-checklist.md)
 -->
+* Course Info
 [Job-Ready Checklist](2019-summer/checklist.md)
 [January 2020 Schedule](2019-summer/2020-january.md)
 * Part 1: Landing the Interview
