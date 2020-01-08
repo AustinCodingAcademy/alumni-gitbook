@@ -1,8 +1,8 @@
-# January 2020 Syllabus
+# January 2020 Schedule
 
 ## Office Hours
 
-* Dan - TBD
+* Dan - [schedule a 30 min Job Hunt Collaboration appointment](https://acaappointment.as.me/job-collab-with-dan)
 * Dana - by appointment (in-person or virtual)
 
 ## Guest Speakers & Topics
@@ -15,10 +15,11 @@
 
 ## Graduation
 
-Saturday, February 1
+**Saturday, February 1**
 * Morning & early afternoon: Grads ensure projects are fully hosted and practice demos
 * 5:00 - 7:00 pm: Graduation & project demos (open to family, friends, and general public)
-[RSVP here](https://www.eventbrite.com/e/austin-coding-academy-february-graduation-demo-day-highland-2120-tickets-85840889411)
+
+[RSVP for graduation here](https://www.eventbrite.com/e/austin-coding-academy-february-graduation-demo-day-highland-2120-tickets-85840889411)
 
 ## Austin Job Search Resources
 
