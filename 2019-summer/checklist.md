@@ -5,8 +5,8 @@ Through the course of this class, we'll work together to complete all the items 
 ## Graduation Items
 
 The below items are __required__ to participate in graduation:
-* Final project hosted on Heroku (projects __must__ be hosted in order to present during graduation)
-* Completed graduate profile for our Hire a Graduate page ([sample here](https://austincodingacademy.com/hire/))
+* Hosted final project (projects __must__ be hosted in order to present during graduation)
+* Completed graduate profile for our "Hire a Graduate" page ([sample here](https://austincodingacademy.com/hire/))
 
 ## Job Search Items
 
