@@ -171,7 +171,7 @@ Personal website resources:
 
 ## Homework
 
-* Complete a PDF version of your resume. Have this ready for the Resume Workshop in class on September 12.
+* Complete a PDF version of your resume.
 * Host your PDF resume on your Github account with [GitHub Pages] (https://pages.github.com/). If you're new to GitHub Pages, follow the steps below:
   * In your GitHub account, create a new repository called `resume`.
   * On the new repository page, find the blue "Quick setup" box. Click "uploading an existing file".
