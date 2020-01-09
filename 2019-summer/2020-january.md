@@ -1,4 +1,4 @@
-# January 2020 Schedule
+# January 2020 Course Info
 
 ## Office Hours
 
@@ -20,6 +20,29 @@
 * 5:00 - 7:00 pm: Graduation & project demos (open to family, friends, and general public)
 
 [RSVP for graduation here](https://www.eventbrite.com/e/austin-coding-academy-february-graduation-demo-day-highland-2120-tickets-85840889411)
+
+## January Networking Events
+
+**Saturday, January 10 @ 10:00am**<br/>
+ACA Technical Interview Practice Session @ ACA North Campus (Highland)<br/>
+<br/>
+**Monday, January 13 @ 6:30pm**<br/>
+[Women Who Code Austin: Hacking Hangout](https://www.meetup.com/Women-Who-Code-Austin/) (happens regularly)<br/>
+<br/>
+**Wednesday, January 15 @ 12:00pm**<br/>
+[ATX Web Developer Lunch: Talk Tech @ Torchy’s Tacos](https://www.meetup.com/atx-web-lunch) (happens monthly)<br/>
+<br/>
+**Tuesday, January 21 @ 6:30pm**<br/>
+[All the Ladies in Tech Happy Hour](https://www.eventbrite.com/e/all-the-ladies-in-tech-happy-hour-winter-edition-tickets-84699168493) (happens quarterly)<br/>
+<br/>
+**Wednesday, January 22 @ 7:00pm**<br/>
+[Capital Factory Winter Job Fair](https://www.capitalfactory.com/event/winter-job-fair/)<br/>
+<br/>
+**Thursday, January 23 @ 6:30pm**<br/>
+[Angular Austin Meetup](https://www.meetup.com/AngularATX/) (happens monthly)<br/>
+<br/>
+**Tuesday, January 28 @ 6:00pm**<br/>
+[Downtown ReactJS Meetup](https://www.meetup.com/ReactJS-ATX/) (happens monthly)<br/>
 
 ## Austin Job Search Resources
 
