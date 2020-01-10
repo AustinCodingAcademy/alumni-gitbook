@@ -43,6 +43,9 @@ ACA Technical Interview Practice Session @ ACA North Campus (Highland)<br/>
 <br/>
 **Tuesday, January 28 @ 6:00pm**<br/>
 [Downtown ReactJS Meetup](https://www.meetup.com/ReactJS-ATX/) (happens monthly)<br/>
+<br/>
+**Wednesday, January 29 @ 6:00pm**<br/>
+[Big Ass Social Happy Hour](https://www.eventbrite.com/e/big-ass-social-happy-hour-registration-89136659147) (happens monthly)<br/>
 
 ## Austin Job Search Resources
 
