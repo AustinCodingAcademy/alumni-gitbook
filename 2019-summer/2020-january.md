@@ -21,6 +21,10 @@
 
 [RSVP for graduation here](https://www.eventbrite.com/e/austin-coding-academy-february-graduation-demo-day-highland-2120-tickets-85840889411)
 
+## Class Recordings
+
+Recordings of all our classes are available in [this Google Drive folder](https://drive.google.com/open?id=1wpJ3J2giM2QQaDrmj9VQR4eiHOH64Hp9).
+
 ## January Networking Events
 
 **Saturday, January 10 @ 10:00am**<br/>
