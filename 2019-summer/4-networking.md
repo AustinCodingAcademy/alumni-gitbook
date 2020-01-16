@@ -99,7 +99,7 @@ Networking events can feel much less daunting when you have a goal in mind. The 
     * For others, suggest meeting for coffee/lunch or attending a future networking event together.
   * Make it personal: Thank them for their time and include details you enjoyed about the conversation.
 
-## Networking events
+<!--## Networking events-->
 
 <!--
 Event calendars:
@@ -153,7 +153,7 @@ Articles:
   * Choose events that are tailored to your interested. The more specific, the better!
   * Join the event's Meetup page, Facebook group, etc.
   * Sign up for the group/event's email newsletter.
-* **Choose one upcoming event that you plan to attend.** It can be one of the Meetups/events on your list, or a different event that's not on your list.
+* **Choose one upcoming event that you plan to attend.** It can be our class networking field trip, one of the Meetups/events on your list, or a different event that's not on your list.
   * Set a concrete game plan / goal for the event.
     * Examples: Speak to a representative from 3 companies you're interested in, talk to at least 1 person about your favorite coding project, etc.
 
