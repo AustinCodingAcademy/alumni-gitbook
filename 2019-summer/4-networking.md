@@ -134,9 +134,9 @@ Articles:
 * [Networking Event Tips for Introverts](https://www.createcultivate.com/blog/2019/2/14/5-networking-event-tips-for-introverts)
 * [How to Make Connections That Count — Advice From a Silicon Valley Veteran (and Introvert)](https://firstround.com/review/how-to-make-connections-that-count-advice-from-a-silicon-valley-veteran-and-introvert/)
 <!--
-## Class discussion
+## Class discussion-->
 
-**Today's Topic:** Networking resources & sharing
+<!--**Today's Topic:** Networking resources & sharing
 
 * Have you attended a networking event recently? If so:
   * Who was there? Who did you meet and talk to?
@@ -156,6 +156,5 @@ Articles:
 * **Choose one upcoming event that you plan to attend.** It can be one of the Meetups/events on your list, or a different event that's not on your list.
   * Set a concrete game plan / goal for the event.
     * Examples: Speak to a representative from 3 companies you're interested in, talk to at least 1 person about your favorite coding project, etc.
-* This homework assignment is optional, but highly recommended!
 
 <!-- {% include "/includes/footer.md" %} -->
