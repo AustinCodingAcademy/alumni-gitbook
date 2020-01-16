@@ -15,7 +15,7 @@
 
 ## Graduation
 
-**Saturday, February 1**
+**Saturday, February 1** at **Capital Factory**
 * Morning & early afternoon: Grads ensure projects are fully hosted and practice demos
 * 5:00 - 7:00 pm: Graduation & project demos (open to family, friends, and general public)
 
