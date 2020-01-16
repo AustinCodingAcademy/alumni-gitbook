@@ -19,7 +19,7 @@
 * Morning & early afternoon: Grads ensure projects are fully hosted and practice demos
 * 5:00 - 7:00 pm: Graduation & project demos (open to family, friends, and general public)
 
-[RSVP for graduation here](https://www.eventbrite.com/e/austin-coding-academy-february-graduation-demo-day-highland-2120-tickets-85840889411)
+[RSVP for graduation here](https://www.eventbrite.com/e/austin-coding-academy-graduation-demo-day-capital-factory-2120-tickets-85840889411)
 
 ## Class Recordings
 
