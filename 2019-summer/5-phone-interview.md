@@ -60,6 +60,16 @@ Here are some other types of preliminary interviews you may encounter during the
 
 ## Homework 
 
-Write down your own answers to all the questions in the ["Non-technical phone interviews" section](https://alumni.austincodingacademy.com/_book/2019-summer/5-phone-interview.html#non-technical-phone-interviews) above.
+**Project demo practice!**<br/>
+To prepare for graduation, let's practice giving mini-demos of our final projects!
+
+* Due 1 week from today - we will share our demos during class
+* Prepare a 3-minute demo that shows off **one feature** of your final project
+* Demo outline:
+  * Introduce yourself
+  * In 2-3 sentences, describe your project concept (what problem does your app solve?)
+  * Show off one feature of your project: Explain what the feature does and walk the audience through
+* No PowerPoint slides or code!
+* It's OK if your project isn't done, the objective is to practice talking about our work and presenting in front of others
 
 <!-- {% include "/includes/footer.md" %} -->
