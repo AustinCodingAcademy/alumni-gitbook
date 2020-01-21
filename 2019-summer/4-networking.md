@@ -156,5 +156,6 @@ Articles:
 * **Choose one upcoming event that you plan to attend.** It can be our class networking field trip, one of the Meetups/events on your list, or a different event that's not on your list.
   * Set a concrete game plan / goal for the event.
     * Examples: Speak to a representative from 3 companies you're interested in, talk to at least 1 person about your favorite coding project, etc.
+* Due in 1 week to your accountability buddy!
 
 <!-- {% include "/includes/footer.md" %} -->
