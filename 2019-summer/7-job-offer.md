@@ -117,6 +117,8 @@ You can also cite skills and competencies that you bring to the table:
 
 ## Homework
 
+This assignment is optional, but highly recommended!
+
 Make a list of three professional "wins" that you can talk about during job interviews and salary negotiation. (These do not need to be coding-related.)
 
 Here are some ideas:
