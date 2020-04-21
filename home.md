@@ -17,7 +17,9 @@ Through this class, you'll have access to:
 * Help preparing for interviews
 * Code challenge practice
 * Mock interviews
-* A spot on your school's graduate proile page. Each campus will have its own page (See [another school's graduate profile page](https://austincodingacademy.com/hire/) as an example)
+* A spot on your school's graduate profile page. Each campus will have its own page (See [another school's graduate profile page](https://austincodingacademy.com/hire/) as an example)
+
+> *NOTE: Many of these graduates have been hired.*
 
 The Job Placement Course has focused our efforts on what employers are looking for, and compiled a list of the most important and relevant "checkpoints" for alumni to complete.
 
@@ -31,7 +33,7 @@ As your instructors, our goals are to help you:
 * Find your place in the community (both within Circle Coding Academy and in the greater tech ecosystem)
 * Feel **empowered** and **confident** throughout the entire process
 
-In less than 6 months, we want each of you to be in a full-time position that is close to what you're seeking. Some of you may already have a tech role offered, others could land one by the time this course wraps up, and some will do side projects for a few months to build a resume before getting the job of their dreams.
+In less than 6 months, we want each of you to be in a full-time position that is close to what you're seeking. Some of you may already have a tech role offered, others could land one by the time this course wraps up, and some will do side projects for a few months to build a resume before getting the job of your dreams.
 
 ## Syllabus and Timeline
 
