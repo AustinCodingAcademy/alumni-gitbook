@@ -13,14 +13,27 @@
 * Jan 28: Microsoft LEAP webinar (tentative)
 * Jan 30: Mock interviews -->
 
-* 4/21/20Class 1: Online Presence
-* 4/23/20Class 2: Your Personal Brand - Guest Speaker: Cam Gottschall
-* 4/28/20Class 3: Finding Jobs - ACA Grad Panel
-* 4/30/20Class 4: Networking - Guest Speaker: Edsel Rivera
-* 5/4/20Class 5: Phone Interviews
-* 5/6/20Class 6: Onsite Interviews
-* 5/11/20Class 7: Job Offers / Project Demos
-* 5/13/20Class 8: Mock Interviews - Guest Interviewers: Dana, Edsel, Matt, Joseph
+* 4/21/20 Class 1: Online Presence
+* 4/23/20 Class 2: Your Personal Brand
+  * Guest: Cam Gottschall
+* 4/28/20 Class 3: Finding Jobs
+  * Panel of ACA Graduates:
+    * Miram Yazdanpanahi
+    * Nathan Simmons
+    * David Bobb
+* 4/30/20 Class 4: Networking
+  * Guest: Edsel Rivera
+* 5/5/20 Class 5: Phone Interviews
+  * Guest: Jon Gucciardi
+* 5/7/20 Class 6: Onsite Interviews
+  * Guest: Sarah Cheatham
+* 5/12/20 Class 7: Job Offers / Project Demos
+* 5/14/20 Class 8: Mock Interviews
+  * Guest Interviewers:
+    * Dana Wen
+    * Edsel Rios-Rivera
+    * Sean Phillipi
+    * Joseph Hauger
 
 ## Graduation
 
