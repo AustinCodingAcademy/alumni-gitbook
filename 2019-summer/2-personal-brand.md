@@ -92,4 +92,9 @@ Complete a first draft of your profile for the graduate profile page. Here's wha
   * When signing up, use the same email address you included in your profile. (This is important!)
   * Upload a profile photo and you're all set! We'll use your email address to automatically find your Gravatar photo and set it as your profile headshot.
 
+* Step 3 - Write a short story to answer each of these prompts using the STAR Template:
+  * Tell me about a challenge you've overcome. (Career/Life Story)
+  * Tell me about a specific project you're proud of. (Project Story)
+  * How do you celebrate your wins? (Developer Story)
+
 <!-- {% include "/includes/footer.md" %} -->

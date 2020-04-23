@@ -32,8 +32,10 @@
   * Guest Interviewers:
     * Dana Wen
     * Edsel Rios-Rivera
-    * Sean Phillipi
+    * Sean Duffy
     * Joseph Hauger
+    * TBA
+    * TBA
 
 ## Graduation
 
